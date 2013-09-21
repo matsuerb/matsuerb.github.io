@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://matsue.rubyist.net/</loc>
+    <lastmod>2013-08-15</lastmod>
+  </url>
+  <url>
+    <loc>http://matsue.rubyist.net/about_us/</loc>
+    <lastmod>2013-09-09</lastmod>
+  </url>
+  <url>
+    <loc>http://matsue.rubyist.net/contact/</loc>
+    <lastmod>2013-08-18</lastmod>
+  </url>
+  <url>
+    <loc>http://matsue.rubyist.net/feed.xml</loc>
+    <lastmod>2013-08-15</lastmod>
+  </url>
+  <url>
+    <loc>http://matsue.rubyist.net/map/</loc>
+    <lastmod>2013-09-09</lastmod>
+  </url>
+  <url>
+    <loc>http://matsue.rubyist.net/news/</loc>
+    <lastmod>2013-08-18</lastmod>
+  </url>
+  <url>
     <loc>http://matsue.rubyist.net/news/2013/08/14/open/</loc>
     <lastmod>2013-08-15</lastmod>
     <changefreq>never</changefreq>
@@ -17,5 +41,23 @@
     <lastmod>2013-08-17</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matsue.rubyist.net/schedule/</loc>
+    <lastmod>2013-08-28</lastmod>
+  </url>
+  <url>
+    <loc>http://matsue.rubyist.net/sitemap.xml</loc>
+    <lastmod>2013-09-21</lastmod>
+  </url>
+  <url>
+    <loc>http://matsue.rubyist.net/tags/</loc>
+    <lastmod>2013-08-12</lastmod>
+  </url>
+  <url>
+    <loc>http://matsue.rubyist.net/tags/イベント/</loc>
+  </url>
+  <url>
+    <loc>http://matsue.rubyist.net/tags/ニュース/</loc>
   </url>
 </urlset>
