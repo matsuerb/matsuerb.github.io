@@ -6,7 +6,7 @@
   </url>
   <url>
     <loc>http://matsue.rubyist.net/about_us/</loc>
-    <lastmod>2013-09-09</lastmod>
+    <lastmod>2013-09-27</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/contact/</loc>
@@ -19,6 +19,10 @@
   <url>
     <loc>http://matsue.rubyist.net/map/</loc>
     <lastmod>2013-09-09</lastmod>
+  </url>
+  <url>
+    <loc>http://matsue.rubyist.net/members/</loc>
+    <lastmod>2013-09-27</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/</loc>
@@ -44,13 +48,13 @@
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2013/09/22/matsuerb_h2510/</loc>
-    <lastmod>2013-09-21</lastmod>
+    <lastmod>2013-09-27</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/schedule/</loc>
-    <lastmod>2013-08-28</lastmod>
+    <lastmod>2013-09-27</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/sitemap.xml</loc>
