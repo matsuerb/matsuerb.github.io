@@ -2,73 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://matsue.rubyist.net/</loc>
-    <lastmod>2013-09-21</lastmod>
+    <lastmod>2013-11-02</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/about_us/</loc>
-    <lastmod>2013-10-03</lastmod>
+    <lastmod>2013-11-02</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/contact/</loc>
-    <lastmod>2013-10-03</lastmod>
+    <lastmod>2013-11-02</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/feed.xml</loc>
-    <lastmod>2013-08-15</lastmod>
+    <lastmod>2013-11-02</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/map/</loc>
-    <lastmod>2013-09-09</lastmod>
+    <lastmod>2013-11-02</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/members/</loc>
-    <lastmod>2013-10-03</lastmod>
+    <lastmod>2013-11-02</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/</loc>
-    <lastmod>2013-10-03</lastmod>
+    <lastmod>2013-11-02</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2013/08/14/open/</loc>
-    <lastmod>2013-08-15</lastmod>
+    <lastmod>2013-11-02</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2013/08/15/matsuerb_h2508/</loc>
-    <lastmod>2013-08-16</lastmod>
+    <lastmod>2013-11-02</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2013/08/18/matsuerb_h2509/</loc>
-    <lastmod>2013-08-17</lastmod>
+    <lastmod>2013-11-02</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2013/09/22/matsuerb_h2510/</loc>
-    <lastmod>2013-10-03</lastmod>
+    <lastmod>2013-11-02</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2013/10/20/matsuerb_h2511/</loc>
-    <lastmod>2013-10-23</lastmod>
+    <lastmod>2013-11-02</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matsue.rubyist.net/news/2013/11/17/matsuerb_h2512/</loc>
+    <lastmod>2013-11-17</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/schedule/</loc>
-    <lastmod>2013-10-23</lastmod>
+    <lastmod>2013-11-17</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/sitemap.xml</loc>
-    <lastmod>2013-09-21</lastmod>
+    <lastmod>2013-11-02</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/tags/</loc>
-    <lastmod>2013-08-12</lastmod>
+    <lastmod>2013-11-02</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/tags/イベント/</loc>
