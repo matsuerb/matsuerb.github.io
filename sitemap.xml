@@ -6,7 +6,7 @@
   </url>
   <url>
     <loc>http://matsue.rubyist.net/about_us/</loc>
-    <lastmod>2013-12-05</lastmod>
+    <lastmod>2013-12-08</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/contact/</loc>
@@ -65,8 +65,14 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://matsue.rubyist.net/news/2013/12/08/matsuerb_h2601/</loc>
+    <lastmod>2013-12-08</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://matsue.rubyist.net/schedule/</loc>
-    <lastmod>2013-12-05</lastmod>
+    <lastmod>2013-12-08</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/sitemap.xml</loc>
