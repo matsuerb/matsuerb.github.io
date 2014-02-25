@@ -1,292 +1,525 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" lang="ja" xml:lang="ja">
-<head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="stylesheet" href="/css/base.css" type="text/css" media="screen,print" />
-<link rel="stylesheet" href="/css/home.css" type="text/css" media="screen,print" />
-<link rel="stylesheet" href="/css/contents.css" type="text/css" media="screen,print" />
-<link rel="canonical" href="http://http://matsue.rubyist.net/matrk05/" />
-<script type="text/javascript" src="/js/jquery-1.10.2.min.js" ></script>
-<script type="text/javascript" src="/js/jquery-rollover.js" ></script>
-<title>松江Ruby会議05|松江Ruby(Matsue.rb)</title>
-<!-- you don't need to keep this, but it's cool for stats! -->    
-<meta name="generator" content="nanoc 3.6.4" />
-<meta property="og:site_name" content="Matsue.rb" />
-<meta property="og:title" content="松江Ruby会議05" />
-<meta itemprop="description" name="description" property="og:description" content="Matsue.rb(松江Ruby)は、島根県松江市周辺で活動するプログラミング言語Rubyのコミュニティです。松江Ruby会議 05 2014 ― 3月15日（土）オープンソースラボにて開催。" />
+<!DOCTYPE HTML>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>松江Ruby会議 05</title>
+    <meta name="description" content="松江Ruby会議 05 2014 ― 3月15日（土）オープンソースラボにて開催。">
+    <meta property="og:title" content="松江Ruby会議 05">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="http://matsue.rubyist.net/">
+    <meta property="og:description" content="松江Ruby会議 05 2014 ― 3月15日（土）オープンソースラボにて開催。">
+    <meta name="generator" content="nanoc 3.6.4"> 
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <!-- Just for debugging purposes. Don't actually copy this line! -->
+    <!--[if lt IE 9]><script src="../../docs-assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
 
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" href="css/carousel.css">
+    <link rel="stylesheet" href="css/application.css">
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="js/application.js"></script>
+  </head>
+  <body>
 
-  
-  
-  <meta name="keywords" content="松江Ruby, Ruby, 松江, ルビー, まつえ, Matuse.rb, #Matuserb, 勉強会, オープンソースラボ" />
+    <header class="bs-docs-nav" role="banner">
+      <nav class="navbar navbar-fixed-top navbar-inverse" role="navigation">
+        <div class="container">
+          <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <h1><img src="img/matrb05Logo.png" alt="MATSUE Ruby Kaigi 05"></h1>
+          </div>
 
+          <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+              <li><a href="#">ホーム</a>
+              <li><a href="#guidance">開催概要</a>
+              <li><a href="#information">新着・お知らせ</a>
+              <li><a href="#program">プログラム</a>
+              <li><a href="#register">参加登録の案内</a>
+              <li><a href="#support">お問い合わせ先</a>
+            </ul>
+          </div><!-- /.navbar-collapse -->
 
-<meta property="og:url" content="http://matsue.rubyist.net/matrk05/" />
-<meta property="og:type" content="article" />
-<meta property="og:locale" content="ja_JP" />
-<!-- <meta property="fb:app_id" content=""> -->
-<meta itemprop="name" content="松江Ruby会議05 - 松江Ruby" />
-<link rel="alternate" type="application/atom+xml" title="Atom" href="/feed.xml" />
+        </div><!-- /.container -->
+      </nav>
+    </header>
 
-</head>
-<body id="home">
-  <div id="site">
+    <div class="top-image"></div>
+    
 
-    <div id="header">
-      <p class="description">Matsue.rb(松江Ruby)は、島根県松江市周辺で活動するプログラミング言語Rubyのコミュニティです。</p>
-      <div class="head_wrp clearfix">
-        <div class="h_logo">
-          <a href="/"><img src="/images/h_logo.jpg" height="90" alt="松江Ruby" /></a>
-        </div>
-        <div class="h_link">
-          <a href="https://www.facebook.com/groups/matsuerb"><img src="/images/bnr_facebook.gif" alt="facebook" /></a>
-          <a href="https://twitter.com/matsuerb"><img src="/images/bnr_twitter.gif" alt="twitter" /></a>
-        </div>
-        <div class="h_btn_waku clearfix">
-          <div class="hb01"><a href="/"><img src="/images/h_btn01.jpg" alt="トップ" /></a></div>
-          <div class="hb01"><a href="/news/"><img src="/images/h_btn02.jpg" alt="お知らせ" /></a></div>
-          <div class="hb01"><a href="/about_us/"><img src="/images/h_btn03.jpg" alt="松江RUBYとは" /></a></div>
-          <div class="hb01"><a href="/members/"><img src="/images/h_btn04.jpg" alt="メンバー紹介" /></a></div>
-          <div class="hb01"><a href="/schedule/"><img src="/images/h_btn05.jpg" alt="スケジュール" /></a></div>
-          <div class="hb01"><a href="/contact/"><img src="/images/h_btn06.jpg" alt="お問い合わせ" /></a></div>
-        </div>
+    <div class="container mark">
+
+       <br>
+ <div id="guidance" class="container">
+    <div class="row">
+      <div class="col-xs-12 col-md-12">
+        <blockquote>
+          <h2 class="font-Fenix" id="outline">開催概要</h2>
+        </blockquote>
       </div>
-    </div><!-- End of head -->
-
-
-    
-      <div id="content" class="clearfix">
-    
-
+    </div>
+    <div class="row">
+      <div class="col-xs-12 col-md-8">
+        <table class="table table-responsive table-condensed">
+          <tr>
+            <th width="20%">名称</th>
+            <td>松江Ruby会議05</td>
+          </tr>
+          <tr>
+            <th>開催日</th>
+            <td>2014年3月15日（土）</td>
+          </tr>
+          <tr>
+            <th>時間</th>
+            <td>午前の部: 11:00 〜 13:00<br>
+              午後の部: 13:25 〜 19:30<br>
+              懇親会　: 20:00〜 
+            </td>
+          </tr>
+          <tr>
+            <th>会場</th>
+            <td>松江オープンソースラボ（松江テルサ別館２F）</a></td>
+          </tr>
+          <tr>
+            <th>参加費</th>
+            <td>無料</td>
+          </tr>
+          <tr>
+            <th>主催</th>
+            <td>Matsue.rb(まつえるびー)</td>
+          </tr>
+          <tr>
+            <th>後援</th>
+            <td>日本Rubyの会</td>
+          </tr>
+          <tr>
+            <th>中継</th>
+            <td>午前の部: 中継は行いませんが録画はします
+            <br>午後の部: <a href="http://www.ustream.tv/channel/matsuerubykaigi05">動画による中継(USTREAM)</a>
+            </td>
+          </tr>
+          <tr>
+            <th>公式タグ</th>
+            <td>Twitter: <a href="https://twitter.com/search?q=matrk05&src=typd&f=realtime">#matrk05</a></td>
+          </tr>
+        </table>
+      </div>
       
-          <link rel="stylesheet" href="/css/matrk05.css" type="text/css" media="screen,print" />
+      <div class="col-xs-12 col-md-4">
+        <iframe width="100%" height="300px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.co.jp/maps?hl=ja&q=%E6%9D%BE%E6%B1%9F%E3%83%86%E3%83%AB%E3%82%B5&ie=UTF8&hq=%E6%9D%BE%E6%B1%9F%E3%83%86%E3%83%AB%E3%82%B5&ll=35.463976,133.062015&spn=0.018176,0.032015&t=m&vpsrc=6&brcurrent=3,0x355704f161fa7299:0x40529ba80edc3804,0&output=embed"></iframe>
+      </div>
+    </div>
+  </div>
+</div>
+<br>
+<br>
 
-<link rel="stylesheet" href="/css/bootstrap.css" type="text/css" media="screen,print" />
+<div id="purpose" class="container">
+    <div class="row">
+      <div class="col-xs-12 col-md-12">
+        <blockquote>
+          <h2 class="font-Fenix" id="message">目的</h2>
+        </blockquote>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-xs-12 col-md-8">
+        <p class="main-text font-Fenix">毎月開催している松江Rubyの定例会での活動成果を発表します。</p>
+        <p class="main-text font-Fenix">日頃書いているプログラムを今回はライブコーディングで発表します！ </p>
+      </div>
+    </div>
+  </div>
+  <br>
+<br>
 
-<div class="body">
-<section id="guidance" class="container">
-  <h1>松江Ruby会議05<br /><small>〜ライブコーディングをしよう！〜</small></h1>
-  <h2>開催概要</h2>
-  <dl class="gaiyou_table">
-    <dt>開催日</dt>
-    <dd>2014年3月15日(土)</dd>
-    <dt>時間</dt>
-    <dd>午前の部：11:00〜13:00</dd>
-    <dd>午後の部：13:25〜19:30 (懇親会: 20:00〜)</dd>
-    <dd><a href="#register">※参加登録の受付をお願いします</a></dd>
-    <dt>開催場所</dt>
-    <dd><a href="http://www1.city.matsue.shimane.jp/sangyoushinkou/ruby/rubycity/rabo/open.html">松江オープンソースラボ（松江テルサ別館２階）</a></dd>
-    <dt>主催</dt>
-    <dd>Matsue.rb(まつえるびー)</dd>
-    <dt>後援</dt>
-    <dd>日本Rubyの会</dd>
-    <dt>中継</dt>
-    <dd>午前の部：中継は行いませんが録画はします</dd>
-    <dd>午後の部：<a href="http://www.ustream.tv/channel/matsuerubykaigi05">動画による中継（USTREAM）</a></dd>
-    <dt>公式タグ</dt>
-    <dd>Twitter：<a href="https://twitter.com/search?q=matrk05&amp;src=typd&amp;f=realtime">#matrk05</a></dd>
-  </dl>
-</section>
-
-<section id="purpose" class="container">
-  <h2>目的</h2>
-  <p>
-    毎月開催している松江Rubyの定例会での活動成果を発表します。<br />
-    日頃書いているプログラムを今回はライブコーディングで発表します！
-  </p>
-</section>
-
-<section id="infomation" class="container">
-  <h2>新着・お知らせ</h2>
-  <dl class="news_table">
+<div id="information" class="container">
+    <div class="row">
+      <div class="col-xs-12 col-md-12">
+        <blockquote>
+          <h2 class="font-Fenix" id="message">新着・お知らせ</h2>
+        </blockquote>
+       <dl class="news_table">
+    <dt>2014/02/25</dt><dd>ページデザインを更新しました。</dd>
     <dt>2014/02/21</dt><dd>プログラムを更新しました。</dd>
     <dt>2014/02/09</dt><dd>プログラムを更新しました。</dd>
     <dt>2014/01/17</dt><dd>本ページを公開しました。</dd>
   </dl>
-</section>
-
-<section id="program" class="container">
-  <h2>プログラム</h2>
-  <h3>午前の部</h3>
-  <p>
-    松江Ruby会議の開会前に交流を兼ねてLT大会を行います。<br />
-    参加希望の方は <a href="#register">昼食エントリの参加登録</a> をお願いします。
-  </p>
-
-  <h4>タイムテーブル</h4>
-  <table class="table table-bordered table-striped">
-    <tr>
-      <td>11:00 -</td>
-      <td>開場</td>
-    </tr>
-    <tr>
-      <td>11:30 - 13:00</td>
-      <td>LT大会、昼食</td>
-    </tr>
-  </table>
-
-  <h4>LT詳細</h4>
-  <table class="table table-bordered table-striped">
-    <thead>
-    <tr>
-      <th>タイトル</th>
-      <th>発表者</th>
-    </tr>
-    </thead>
-    <tbody>
-    <tr>
-      <td>「とくちゃんと Ruby Association」</td>
-      <td>徳永 翔二氏</td>
-    </tr>
-    <tr>
-      <td>「正しいモチベーションの上げ方」</td>
-      <td>井上 裕之氏　<a href="https://github.com/inoh">@inoh</a></td>
-    </tr>
-    <tr>
-      <td>「未定」</td>
-      <td>高木 丈智氏　<a href="https://github.com/takenory">@takenory</a></td>
-    </tr>
-    <tr>
-      <td>「拡張ライブラリで作成するruby-assimp」</td>
-      <td>佐田 明弘氏　<a href="https://github.com/sada">@sada</a></td>
-    </tr>
-    <tr>
-      <td>「基本設計」</td>
-      <td>小谷 真一氏　<a href="https://github.com/sn1128">@sn1128</a></td>
-    </tr>
-    <tr>
-      <td>「未定」</td>
-      <td>西田 雄也氏　<a href="https://twitter.com/nishidayuya">@nishidayuya</a></td>
-    </tr>
-    </tbody>
-  </table>
-
-  <h3>午後の部（本編）</h3>
-  <p>
-    松江Ruby会議の午後の部は<strong>まつもとゆきひろ氏</strong>による基調講演をはじめ、<strong>DXRuby開発者のmirichi氏</strong>のゲスト講演もあります。<br />
-    ライブコーディングではMatsue.rbのメンバーによる、日頃の活動の成果の発表に加え、Rubyコミッターも参加します！
-  </p>
-  <p>参加希望の方は <a href="#register">参加登録</a> をお願いします。 </p>
-  <h4>タイムテーブル</h4>
-  <table class="table table-bordered table-striped">
-    <thead>
-    <tr>
-      <th>時間</th>
-      <th>タイトル</th>
-      <th>講演者</th>
-    </tr>
-    </thead>
-    <tbody>
-    <tr>
-      <td>13:00-</td>
-      <td>会場・受付</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>13:25<br />-13:30</td>
-      <td>開会挨拶</td>
-      <td>主催者</td>
-    </tr>
-    <tr>
-      <td>13:30<br />-14:00</td>
-      <td>基調講演</td>
-      <td>まつもとゆきひろ氏 <a href="http://twitter.com/yukihiro_matz">@yukihiro_matz</a></td>
-    </tr>
-    <tr>
-      <td>14:10<br />-14:40</td>
-      <td>ゲスト講演（DXRubyに関するお話）</td>
-      <td><a href="http://twitter.com/mirichi">@mirichi</a>（DXRuby開発者）</td>
-    </tr>
-    <tr>
-      <td>14:50<br />-15:20</td>
-      <td>「ちょっとるりまでも更新してみようか」（ライブコー...ドキュメンティング）<br />普段Matsue.rb定例会で@sho-hがやっている事を紹介します。コーディングではないのはご愛嬌？</td>
-      <td>橋本 将 <a href="https://github.com/sho-h">@sho-h</a></td>
-    </tr>
-    <tr>
-      <td>15:30<br />-16:00</td>
-      <td>「RubyMotionいつやるの？」（ライブコーディング）<br />RubyMotionを使ったiOSアプリ開発を実演します！</td>
-      <td>木村 友哉氏 <a href="https://github.com/tomo-k">@tomo-k</a></td>
-    </tr>
-    <tr>
-      <td>16:10<br />-16:40</td>
-      <td>「タイトル未定」（ライブコーディング）</td>
-      <td>前田 修吾氏 <a href="https://github.com/shugo">@shugo</a></td>
-    </tr>
-    <tr>
-      <td>16:50<br />-17:20</td>
-      <td>
-        「takaokouji とrockzeroのぶつかり稽古」（ライブコーディング）<br />
-        　takaokouji氏が出題したtestを満たすコードをrockzero君が回答していきます！
-      </td>
-      <td>高尾 宏治氏 ＆ 岩石 嶺君　<a href="https://github.com/takaokouji">@takaokouji</a> &amp; <a href="https://github.com/rockzero">@rockzero</a></td>
-    </tr>
-    <tr>
-      <td>17:30-</td>
-      <td>閉会挨拶</td>
-      <td>主催者</td>
-    </tr>
-    </tbody>
-  </table>
-
-  <h2>夕方の部、懇親会</h2>
-  <h4>タイムテーブル</h4>
-  <table class="table table-bordered table-striped">
-    <tr>
-      <td>18:00 - 19:30</td>
-      <td>Ruby Jr 発表会</td>
-      <td>中高生による発表会です。Rubyを使って作ったゲームの発表をします。</td>
-    </tr>
-    <tr>
-      <td>18:00 - 19:30</td>
-      <td>ライブコーディング大喜利</td>
-      <td>※RubyJrと平行開催となるため開催場所が <strong><a href="http://www.sanbg.com/terrsa/">テルサ研修室２</a></strong> となります。</td>
-    </tr>
-    <tr>
-      <td>20:00 -</td>
-      <td>懇親会</td>
-      <td>参加希望の方は <a href="#register">懇親会の参加登録</a> をお願いします。</td>
-    </tr>
-  </table>
-
-</section>
-
-<section id="register" class="container">
-  <h2>参加登録の案内</h2>
-  <p>カンファレンスの参加費は<strong>無料</strong>ですが人数把握のため事前登録をお願いします。<br />その他昼食エントリ、懇親会についての詳細は下記のリンク（doorkeeper）を参照してください。
-  <dl class="entry_table">
-  <dt>参加受付</dt>
-  <dd><a href="http://matsue-rb.doorkeeper.jp/events/8268">事前登録（http://matsue-rb.doorkeeper.jp/events/8268）</a></dd>
-  <dt>昼食エントリ</dt>
-  <dd><a href="http://matsue-rb.doorkeeper.jp/events/8278">参加登録（http://matsue-rb.doorkeeper.jp/events/8278）</a></dd>
-  <dt>懇親会</dt>
-  <dd><a href="http://matsue-rb.doorkeeper.jp/events/8277">参加登録（http://matsue-rb.doorkeeper.jp/events/8277）</a></dd>
-</dl>
-
-
-<section id="support" class="container">
-  <h2>お問い合わせ先</h2>
-  <p class="contact">松江Ruby会議05に関するお問い合わせは、matsuerubykaigi05 _at_ googlegroups.comまでメールにてご連絡ください。</p>
-</section>
-
-</p></section></div>
-
-      
-
-
-    </div><!-- cont-top end -->
-
-    <div id="footer">
-      <div class="f_link">
-        <a href="/index.html">トップ</a>｜
-        <a href="/news/">お知らせ</a>｜
-        <a href="/about_us/">松江Rubyとは</a>｜
-        <a href="/schedule/">スケジュール</a>｜
-        <a href="/contact/">お問い合わせ</a>｜
-        <a href="/map/">アクセス</a>
       </div>
-      <div class="copy">Copyright © 2013-2014 <a href="https://www.facebook.com/groups/matsuerb">Matsue.rb(松江Ruby) </a>. All Rights Reserved. <span><a target="_blank" href="https://github.com/matsuerb/matsuerb-nanoc">GitHub・matsuerb/matsuerb-nanoc</a></span></div>
-    </div><!--footer end-->
+    </div>
+    <div class="row">
+      <div class="col-xs-12 col-md-8">
+      </div>
+    </div>
+  </div> 
 
-  </div><!-- site end -->
-</body>
-</html>
+ <div id="program" class="container">
+    <div class="row">
+      <div class="col-xs-12 col-md-12">
+        <blockquote>
+          <h2 class="font-Fenix" id="message">プログラム</h2>
+        </blockquote>
+        <h3 class="font-Fenix" id="message">・午前の部</h3>
+        <p class="main-text font-Fenix">松江Ruby会議の開会前に交流を兼ねてLT大会を行います。</p>
+        <p class="main-text font-Fenix">参加希望の方は<a href="#register">昼食エントリの参加登録</a>をお願いします。</p>
+        <br>
+        <h4 class="font-Fenix" id="message">タイムテーブル</h4>
+        <table class="timetable-table">
+          <thead>
+            <th class="timetable-date">
+              <span class="inner">時間</span>
+            </th>
+            <th class="timetable-date">
+              <span class="inner">プログラム</span>
+            </th>
+            <th class="timetable-date">
+              <span class="inner">発表者</span>
+            </th>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="timetable-time">
+                <span>11:00</span>
+              </td>
+              <td class="timetable-time">
+                <span>開場</span>
+              </td>
+              <td class="timetable-time">
+                <span></span>
+              </td>
+            </tr>
+            <tr>
+              <td class="timetable-time">
+                <span>11:30 〜 13:00</span>
+              </td>
+              <td class="timetable-time">
+                <span>LT大会、昼食</span>
+              </td>
+              <td class="timetable-time">
+                <span></span>
+              </td>
+            </tr>
+            <tr>
+              <td class="timetable-time">
+                <span></span>
+              </td>
+              <td class="timetable-time">
+                <span>「とくちゃんと Ruby Association」</span>
+              </td>
+              <td class="timetable-time">
+                <span>徳永 翔二氏</span>
+              </td>
+            </tr>
+             <tr>
+              <td class="timetable-time">
+                <span></span>
+              </td>
+              <td class="timetable-time">
+                <span>「正しいモチベーションの上げ方」</span>
+              </td>
+              <td class="timetable-time">
+                <span>井上 裕之氏（<a href="https://github.com/inoh">@inoh</a>）</span>
+              </td>
+            </tr>
+            <tr>
+              <td class="timetable-time">
+                <span></span>
+              </td>
+              <td class="timetable-time">
+                <span>「未定」</span>
+              </td>
+              <td class="timetable-time">
+                <span>高木 丈智氏（<a href="https://github.com/takenory">@takenory</a>）</span>
+              </td>
+            </tr>
+            <tr>
+              <td class="timetable-time">
+                <span></span>
+              </td>
+              <td class="timetable-time">
+                <span>「拡張ライブラリで作成するruby-assimp」</span>
+              </td>
+              <td class="timetable-time">
+                <span>佐田 明弘氏（<a href="https://github.com/sada">@sada</a>）</span>
+              </td>
+            </tr>
+            <tr>
+              <td class="timetable-time">
+                <span></span>
+              </td>
+              <td class="timetable-time">
+                <span>「基本設計」</span>
+              </td>
+              <td class="timetable-time">
+                <span>小谷 真一氏（<a href="https://github.com/sn1128">@sn1128</a>）</span>
+              </td>
+            </tr>
+            <tr>
+              <td class="timetable-time">
+                <span></span>
+              </td>
+              <td class="timetable-time">
+                <span>「未定」</span>
+              </td>
+              <td class="timetable-time">
+                <span>西田 雄也氏（<a href="https://twitter.com/nishidayuya">@nishidayuya</a>）</span>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <br>
+        <h3 class="font-Fenix" id="message">・午後の部</h3>
+        <p class="main-text font-Fenix">松江Ruby会議の午後の部は<strong>まつもとゆきひろ氏</strong>による基調講演をはじめ、<strong>DXRuby開発者のmirichi氏</strong>のゲスト講演もあります。
+        </p>
+        <p class="main-text font-Fenix">ライブコーディングではMatsue.rbのメンバーによる、日頃の活動の成果の発表に加え、Rubyコミッターも参加します！ </p>
+        <br>
+        <p class="main-text font-Fenix">参加希望の方は<a href="#register">参加登録</a>をお願いします。</p>
+        <br>
+        <h4 class="font-Fenix" id="message">タイムテーブル</h4>
+        <table class="timetable-table">
+          <thead>
+            <th class="timetable-date">
+              <span class="inner">時間</span>
+            </th>
+            <th class="timetable-date">
+              <span class="inner">プログラム</span>
+            </th>
+            <th class="timetable-date">
+              <span class="inner">発表者</span>
+            </th>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="timetable-time">
+                <span>13:00〜</span>
+              </td>
+              <td class="timetable-time">
+                <span>開場・受付開始</span>
+              </td>
+              <td class="timetable-time">
+                <span></span>
+              </td>
+            </tr>
+            <tr>
+              <td class="timetable-time">
+                <span>13:25 〜 13:30</span>
+              </td>
+              <td class="timetable-time">
+                <span>開会あいさつ</span>
+              </td>
+              <td class="timetable-time">
+                <span>主催者</span>
+              </td>
+            </tr>
+            <tr>
+              <td class="timetable-time">
+                <span>13:30 〜 14:00</span>
+              </td>
+              <td class="timetable-time">
+                <span>基調講演</span>
+              </td>
+              <td class="timetable-time">
+                <span>まつもとゆきひろ氏</span>
+              </td>
+            </tr>
+             <tr>
+              <td class="timetable-time">
+                <span>14:10 〜 14:40</span>
+              </td>
+              <td class="timetable-time">
+                <span>ゲスト講演（DXRubyに関するお話）</span>
+              </td>
+              <td class="timetable-time">
+                <span><a href="http://twitter.com/mirichi">@mirichi</a><br>（DXRuby開発者）</span>
+              </td>
+            </tr>
+            <tr>
+              <td class="timetable-time">
+                <span>14:50 〜 15:20</span>
+              </td>
+              <td class="timetable-time">
+                <span>「ちょっとるりまでも更新してみようか」（ライブコー...ドキュメンティング）<br>
+普段Matsue.rb定例会で@sho-hがやっている事を紹介します。コーディングではないのはご愛嬌？</span>
+              </td>
+              <td class="timetable-time">
+                <span>橋本 将<br>（<a href="https://github.com/sho-h">@sho-h</a>）</span>
+              </td>
+            </tr>
+            <tr>
+              <td class="timetable-time">
+                <span>15:30 〜 16:00</span>
+              </td>
+              <td class="timetable-time">
+                <span>「RubyMotionいつやるの？」（ライブコーディング）<br>
+RubyMotionを使ったiOSアプリ開発を実演します！</span>
+              </td>
+              <td class="timetable-time">
+                <span>木村 友哉氏<br>（<a href="https://github.com/tomo-k">@tomo-k</a>）</span>
+              </td>
+            </tr>
+            <tr>
+              <td class="timetable-time">
+                <span>16:10 〜 16:40</span>
+              </td>
+              <td class="timetable-time">
+                <span>「タイトル未定」（ライブコーディング）</span>
+              </td>
+              <td class="timetable-time">
+                <span>前田 修吾氏<br>（<a href="https://github.com/shugo">@shugo</a>）</span>
+              </td>
+            </tr>
+            <tr>
+              <td class="timetable-time">
+                <span>16:50 〜 17:20</span>
+              </td>
+              <td class="timetable-time">
+                <span>「takaokouji とrockzeroのぶつかり稽古」（ライブコーディング）<br>
+　takaokouji氏が出題したtestを満たすコードをrockzero君が回答していきます！ </span>
+              </td>
+              <td class="timetable-time">
+                <span>高尾 宏治氏<br>（<a href="https://github.com/takaokouji">@takaokouji</a>）<br>岩石 嶺君<br>（<a href="https://github.com/rockzero">@rockzero</a>）</span>
+              </td>
+            </tr>
+             <tr>
+              <td class="timetable-time">
+                <span>17:30 〜</span>
+              </td>
+              <td class="timetable-time">
+                <span>閉会挨拶</span>
+              </td>
+              <td class="timetable-time">
+                <span>主催者</span>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <br>
+         <h3 class="font-Fenix" id="message">・夕方の部、懇親会 </h3>
+         <br>
+        <h4 class="font-Fenix" id="message">タイムテーブル</h4>
+        <table class="timetable-table">
+          <thead>
+            <th class="timetable-date">
+              <span class="inner">時間</span>
+            </th>
+            <th class="timetable-date">
+              <span class="inner">プログラム</span>
+            </th>
+            <th class="timetable-date">
+              <span class="inner">会場</span>
+            </th>
+            <th class="timetable-date">
+              <span class="inner">備考</span>
+            </th>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="timetable-time">
+                <span>18:00 〜 19:30</span>
+              </td>
+              <td class="timetable-time">
+                <span>Ruby Jr発表会</span>
+              </td>
+              <td class="timetable-time">
+                <span>オープンソースラボ</span>
+              </td>
+              <td class="timetable-time">
+              <span>中高生による発表会です。Rubyを使って作ったゲームの発表をします。</span>
+              </td>
+            </th>
+            </tr>
+            <tr>
+              <td class="timetable-time">
+                <span></span>
+              </td>
+              <td class="timetable-time">
+                <span>ライブコーディング大喜利</span>
+              </td>
+              <td class="timetable-time">
+                <span>松江テルサ</span>
+              </td>
+              <td class="timetable-time">
+                <span>※RubyJrと平行開催となるため開催場所が<strong><a href="http://www.sanbg.com/terrsa/">テルサ研修室２</a></strong>となります。</span>
+              </td>
+            </tr>
+            <tr>
+              <td class="timetable-time">
+                <span>20:00 〜</span>
+              </td>
+              <td class="timetable-time">
+                <span>懇親会</span>
+              </td>
+              <td class="timetable-time">
+                <span>彩鮮酒楽　やぁ</span>
+              </td>
+              <td class="timetable-time">
+                <span>参加希望の方は 懇親会の参加登録 をお願いします。</span>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+   <div id="register" class="container">
+    <div class="row">
+      <div class="col-xs-12 col-md-12">
+        <blockquote>
+          <h2 class="font-Fenix" id="message">参加登録の案内</h2>
+        </blockquote>
+         <p class="main-text font-Fenix">カンファレンスの参加費は無料ですが人数把握のため事前登録をお願いします。</p>
+         <p class="main-text font-Fenix">その他昼食エントリ、懇親会についての詳細は下記のリンク（doorkeeper）を参照してください。 </p>
+        <a href="http://matsue-rb.doorkeeper.jp/events/8268">
+        <button class="button" type="button">参加受付</button></a>
+        <a href="http://matsue-rb.doorkeeper.jp/events/8278">
+        <button class="button" type="button">昼食エントリ</button></a>
+        <a href="http://matsue-rb.doorkeeper.jp/events/8277">
+        <button class="button" type="button">懇親会</button></a>
+      </div>
+    </div>
+  </div> 
+  <br>
+  <br>
+
+   <div id="support" class="container">
+    <div class="row">
+      <div class="col-xs-12 col-md-12">
+        <blockquote>
+          <h2 class="font-Fenix" id="message">お問い合わせ</h2>
+        </blockquote>
+        <p class="main-text font-Fenix">松江Ruby会議05に関するお問い合わせは、matsuerubykaigi05 _at_ googlegroups.comまでメールにてご連絡ください。</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-xs-12 col-md-8">
+      </div>
+    </div>
+  </div> 
+
+<style>table.timetable-table {max-width: 90%;background-color: transparent; margin-left: 15px}.timetable-table td{font-size:100%;}.timetable-table tr:nth-child(even) {background-color:#F9F9F9;}.timetable-time td{font-size:100%;}.timetable-table {width: 100%;margin-bottom: 20px;border-bottom: 1px solid #dddddd;}.timetable-table > thead th,.timetable-table > tbody > tr td{text-align: left;padding: 8px;line-height: 1.428571429;vertical-align: top;border-top: 1px solid #dddddd; padding-left: 100px}.timetable-table-bordered > thead > th,.timetable-table-bordered > tbody > tr > td{border: 1px solid #dddddd;}.timetable-table > thead th{font-size:1.25em;}.timetable-table > thead th .month{font-size:0.8em;vertical-align:top;}.timetable-table > thead th .day{font-size:0.6em;}table.timetable-table</style>
+<style>.button {padding: 10px 70px;font-size: 25px;line-height: 1.3;border-radius: 10px;color:#FFFFFF;background-color: #EB1D15;border-color: #EB1D15;margin-right: 10px;margin-top: 10px;width: 295px} .container mark{margin-top: 400px;}</style>
+
+      <!-- FOOTER -->
+      <footer>
+        <p class="text-center"><a href="http://matsue.rubyist.net/"><img src="img/h_logo.jpg" alt="matsuerb"></a></p>
+      </footer>
+
+    </div><!-- /.container -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/holder.js"></script>
+ </html>
