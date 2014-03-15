@@ -89,6 +89,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://matsue.rubyist.net/news/2014/03/15/matsuerb_h2604/</loc>
+    <lastmod>2014-03-15</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://matsue.rubyist.net/schedule/</loc>
     <lastmod>2014-03-14</lastmod>
   </url>
