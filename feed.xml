@@ -2,13 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://matsue.rubyist.net/</id>
   <title>Matsue.rb(松江Ruby)</title>
-  <updated>2014-04-25T15:00:00Z</updated>
+  <updated>2014-05-30T15:00:00Z</updated>
   <link rel="alternate" href="http://matsue.rubyist.net/"/>
   <link rel="self" href="http://matsue.rubyist.net/feed.xml"/>
   <author>
     <name>Matsue.rb</name>
     <uri>http://matsuerb.github.io/</uri>
   </author>
+  <entry>
+    <id>tag:matsue.rubyist.net,2014-05-31:/news/2014/05/31/matsuerb_h2606/</id>
+    <title type="html">「Matsue.rb定例会H26.06」開催のお知らせ</title>
+    <published>2014-05-30T15:00:00Z</published>
+    <updated>2014-05-30T15:00:00Z</updated>
+    <link rel="alternate" href="http://matsue.rubyist.net/news/2014/05/31/matsuerb_h2606/"/>
+    <content type="html">&lt;p&gt;　6月28日(土)に&lt;a href="/about_us/#matsuerb"&gt;松江Ruby(Matsue.rb)定例会&lt;/a&gt;を開催します。場所は&lt;a href="/map/"&gt;松江オープンソースラボ&lt;/a&gt;で、時間は09:30から17:00までです。&lt;/p&gt;
+&lt;p&gt;　また、当日は定例会の後にMatsue.rbグループのメンバーが講師やアシスタントを努める中高生プログラミング教室の&lt;a href="http://www1.city.matsue.shimane.jp/sangyoushinkou/ruby/rubycity/rubyjr/rubyjr.html"&gt;Ruby.Jr(松江市主催)&lt;/a&gt;も行われる予定です。&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <id>tag:matsue.rubyist.net,2014-04-26:/news/2014/04/26/matsuerb_h2605/</id>
     <title type="html">「Matsue.rb定例会H26.05」開催のお知らせ</title>
@@ -36,16 +46,6 @@
     <link rel="alternate" href="http://matsue.rubyist.net/news/2014/01/17/matsuerb_h2602/"/>
     <content type="html">&lt;p&gt;　2月8日(土)に&lt;a href="/about_us/#matsuerb"&gt;松江Ruby(Matsue.rb)定例会&lt;/a&gt;を開催します。場所は&lt;a href="/map/"&gt;松江オープンソースラボ&lt;/a&gt;で、時間は09:30から17:30までです。&lt;/p&gt;
 &lt;p&gt;　また、当日は定例会の後にMatsue.rbグループのメンバーが講師やアシスタントを努める中高生プログラミング教室の&lt;a href="http://www1.city.matsue.shimane.jp/sangyoushinkou/ruby/rubycity/rubyjr/rubyjr.html"&gt;Ruby.Jr(松江市主催)&lt;/a&gt;も行われる予定です。&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:matsue.rubyist.net,2014-01-17:/news/2014/01/17/matrk05-ann/</id>
-    <title type="html">「松江Ruby会議05」開催のお知らせ</title>
-    <published>2014-01-16T15:00:00Z</published>
-    <updated>2014-01-16T15:00:00Z</updated>
-    <link rel="alternate" href="http://matsue.rubyist.net/news/2014/01/17/matrk05-ann/"/>
-    <content type="html">&lt;p&gt;　3月15日(土)に&lt;a href="/matrk05"&gt;松江Ruby会議05&lt;/a&gt;を開催します。場所は&lt;a href="/map/"&gt;松江オープンソースラボ&lt;/a&gt;で、時間は11:00から13:00(午前の部)と13:25から19:30(午後の部)です。詳細はリンク先をご覧ください。&lt;/p&gt;
-&lt;p&gt;　また、当日は会議の一部としてMatsue.rbグループのメンバーが講師やアシスタントを努める中高生プログラミング教室の&lt;a href="http://www1.city.matsue.shimane.jp/sangyoushinkou/ruby/rubycity/rubyjr/rubyjr.html"&gt;Ruby.Jr(松江市主催)&lt;/a&gt;も行われる予定です。&lt;/p&gt;
 </content>
   </entry>
   <entry>
