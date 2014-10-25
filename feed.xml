@@ -2,13 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://matsue.rubyist.net/</id>
   <title>Matsue.rb(松江Ruby)</title>
-  <updated>2014-09-26T15:00:00Z</updated>
+  <updated>2014-10-24T15:00:00Z</updated>
   <link rel="alternate" href="http://matsue.rubyist.net/"/>
   <link rel="self" href="http://matsue.rubyist.net/feed.xml"/>
   <author>
     <name>Matsue.rb</name>
     <uri>http://matsuerb.github.io/</uri>
   </author>
+  <entry>
+    <id>tag:matsue.rubyist.net,2014-10-25:/news/2014/10/25/matsuerb_h2611/</id>
+    <title type="html">「Matsue.rb定例会H26.11」開催のお知らせ</title>
+    <published>2014-10-24T15:00:00Z</published>
+    <updated>2014-10-24T15:00:00Z</updated>
+    <link rel="alternate" href="http://matsue.rubyist.net/news/2014/10/25/matsuerb_h2611/"/>
+    <content type="html">&lt;p&gt;　11月15日(土)に&lt;a href="/about_us/#matsuerb"&gt;松江Ruby(Matsue.rb)定例会&lt;/a&gt;を開催します。場所は&lt;a href="/map/"&gt;松江オープンソースラボ&lt;/a&gt;で、時間は09:30から17:00までです。&lt;/p&gt;
+&lt;p&gt;　また、当日は以下のイベントもオープンソースラボで開催される予定です。詳細はリンク先をご覧ください。
+
+&lt;div class="table_wrapper" style="width: 95%"&gt;
+
+    &lt;table&gt;
+      &lt;thead&gt;
+        &lt;tr&gt;
+          &lt;th style="text-align: left"&gt;イベント名&lt;/th&gt;
+          &lt;th style="text-align: left"&gt;説明&lt;/th&gt;
+          &lt;th style="text-align: left"&gt;時間&lt;/th&gt;
+        &lt;/tr&gt;
+      &lt;/thead&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td style="text-align: left"&gt;&lt;a href="http://www1.city.matsue.shimane.jp/sangyoushinkou/ruby/rubycity/rubyjr/rubyjr.html"&gt;Ruby.Jr(松江市主催)&lt;/a&gt;&lt;/td&gt;
+          &lt;td style="text-align: left"&gt;Matsue.rbグループのメンバーが講師やアシスタントを努める中高生プログラミング教室&lt;/td&gt;
+          &lt;td style="text-align: left"&gt;18:00-19:30(定例会の後)&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td style="text-align: left"&gt;&lt;a href="http://sproutrb.doorkeeper.jp/"&gt;スプラウト.rb&lt;/a&gt;&lt;/td&gt;
+          &lt;td style="text-align: left"&gt;Ruby on Rails勉強会。現在はRuby on Rails チュートリアルの読書会を実施&lt;/td&gt;
+          &lt;td style="text-align: left"&gt;13:00-17:00(定例会と同時開催)&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td style="text-align: left"&gt;&lt;a href="http://smalruby.doorkeeper.jp/events/16083"&gt;コーダー道場 松江&lt;/a&gt;&lt;/td&gt;
+          &lt;td style="text-align: left"&gt;子ども(主に小学校3年生から中学校2年生まで)のためのプログラミング教室&lt;/td&gt;
+          &lt;td style="text-align: left"&gt;13:30-16:30(定例会と同時開催)&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+
+  &lt;/div&gt;
+
+&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <id>tag:matsue.rubyist.net,2014-09-27:/news/2014/09/27/matsuerb_h2610/</id>
     <title type="html">「Matsue.rb定例会H26.10」開催のお知らせ</title>
@@ -35,7 +78,7 @@
           &lt;td style="text-align: left"&gt;18:00-19:30(定例会の後)&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
-          &lt;td style="text-align: left"&gt;&lt;a href="http://sproutrb.doorkeeper.jp/"&gt;スプラウト.rb&lt;/a&gt;&lt;/td&gt;
+          &lt;td style="text-align: left"&gt;&lt;a href="http://sproutrb.doorkeeper.jp/events/16353"&gt;スプラウト.rb&lt;/a&gt;&lt;/td&gt;
           &lt;td style="text-align: left"&gt;Ruby on Rails勉強会。現在はRuby on Rails チュートリアルの読書会を実施&lt;/td&gt;
           &lt;td style="text-align: left"&gt;13:00-17:00(定例会と同時開催)&lt;/td&gt;
         &lt;/tr&gt;
@@ -82,16 +125,6 @@
     <link rel="alternate" href="http://matsue.rubyist.net/news/2014/06/28/matsuerb_h2607/"/>
     <content type="html">&lt;p&gt;　7月19日(土)に&lt;a href="/about_us/#matsuerb"&gt;松江Ruby(Matsue.rb)定例会&lt;/a&gt;を開催します。場所は&lt;a href="/map/"&gt;松江オープンソースラボ&lt;/a&gt;で、時間は09:30から17:00までです。&lt;/p&gt;
 &lt;p&gt;　なお、Matsue.rbグループのメンバーが講師やアシスタントを努める中高生プログラミング教室の&lt;a href="http://www1.city.matsue.shimane.jp/sangyoushinkou/ruby/rubycity/rubyjr/rubyjr.html"&gt;Ruby.Jr(松江市主催)&lt;/a&gt;も同日の開催を予定しておりましたが 7/26(土)に変更になりました。ご注意ください。&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:matsue.rubyist.net,2014-05-31:/news/2014/05/31/matsuerb_h2606/</id>
-    <title type="html">「Matsue.rb定例会H26.06」開催のお知らせ</title>
-    <published>2014-05-30T15:00:00Z</published>
-    <updated>2014-05-30T15:00:00Z</updated>
-    <link rel="alternate" href="http://matsue.rubyist.net/news/2014/05/31/matsuerb_h2606/"/>
-    <content type="html">&lt;p&gt;　6月28日(土)に&lt;a href="/about_us/#matsuerb"&gt;松江Ruby(Matsue.rb)定例会&lt;/a&gt;を開催します。場所は&lt;a href="/map/"&gt;松江オープンソースラボ&lt;/a&gt;で、時間は09:30から17:00までです。&lt;/p&gt;
-&lt;p&gt;　また、当日は定例会の後にMatsue.rbグループのメンバーが講師やアシスタントを努める中高生プログラミング教室の&lt;a href="http://www1.city.matsue.shimane.jp/sangyoushinkou/ruby/rubycity/rubyjr/rubyjr.html"&gt;Ruby.Jr(松江市主催)&lt;/a&gt;も行われる予定です。&lt;/p&gt;
 </content>
   </entry>
 </feed>
