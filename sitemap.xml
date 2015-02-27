@@ -6,7 +6,7 @@
   </url>
   <url>
     <loc>http://matsue.rubyist.net/about_us/</loc>
-    <lastmod>2014-11-08</lastmod>
+    <lastmod>2015-02-28</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/calendar.ics</loc>
@@ -155,6 +155,12 @@
   <url>
     <loc>http://matsue.rubyist.net/news/2015/01/10/matsuerb_h2702/</loc>
     <lastmod>2015-01-19</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matsue.rubyist.net/news/2015/02/28/matsuerb_h2703/</loc>
+    <lastmod>2015-02-28</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
