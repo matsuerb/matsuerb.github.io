@@ -159,6 +159,10 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://matsue.rubyist.net/news/2015/02/28/matsue-rubykaigi06/</loc>
+    <lastmod>2015-03-01</lastmod>
+  </url>
+  <url>
     <loc>http://matsue.rubyist.net/news/2015/02/28/matsuerb_h2703/</loc>
     <lastmod>2015-02-28</lastmod>
     <changefreq>never</changefreq>
@@ -166,7 +170,7 @@
   </url>
   <url>
     <loc>http://matsue.rubyist.net/schedule/</loc>
-    <lastmod>2015-01-10</lastmod>
+    <lastmod>2015-03-01</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/sitemap.xml</loc>
