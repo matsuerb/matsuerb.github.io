@@ -22,7 +22,7 @@
   </url>
   <url>
     <loc>http://matsue.rubyist.net/map/</loc>
-    <lastmod>2014-09-17</lastmod>
+    <lastmod>2015-04-22</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/members/</loc>
@@ -172,7 +172,13 @@
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2015/03/21/matsuerb_h2704/</loc>
-    <lastmod>2015-03-16</lastmod>
+    <lastmod>2015-04-14</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matsue.rubyist.net/news/2015/04/25/matsuerb_h2705/</loc>
+    <lastmod>2015-04-17</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
