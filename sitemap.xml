@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://matsue.rubyist.net/</loc>
-    <lastmod>2014-09-17</lastmod>
+    <lastmod>2015-09-04</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/about_us/</loc>
@@ -88,7 +88,7 @@
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2014/01/17/railsgirlsmatsue/</loc>
-    <lastmod>2014-09-17</lastmod>
+    <lastmod>2015-09-06</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
@@ -215,6 +215,12 @@
   <url>
     <loc>http://matsue.rubyist.net/news/2015/08/29/matsuerb_h2710/</loc>
     <lastmod>2015-08-28</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matsue.rubyist.net/news/2015/09/06/matrk07-and-railsgirls-matsue/</loc>
+    <lastmod>2015-09-06</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
