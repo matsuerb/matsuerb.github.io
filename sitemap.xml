@@ -88,7 +88,7 @@
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2014/01/17/railsgirlsmatsue/</loc>
-    <lastmod>2015-09-06</lastmod>
+    <lastmod>2015-10-21</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
@@ -214,7 +214,7 @@
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2015/08/29/matsuerb_h2710/</loc>
-    <lastmod>2015-08-28</lastmod>
+    <lastmod>2015-10-21</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
@@ -225,8 +225,14 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://matsue.rubyist.net/news/2015/10/24/matsuerb_h2711/</loc>
+    <lastmod>2015-10-24</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://matsue.rubyist.net/schedule/</loc>
-    <lastmod>2015-10-14</lastmod>
+    <lastmod>2015-10-24</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/sitemap.xml</loc>
