@@ -2,13 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://matsue.rubyist.net/</id>
   <title>Matsue.rb(松江Ruby)</title>
-  <updated>2015-10-23T15:00:00Z</updated>
+  <updated>2015-11-06T15:00:00Z</updated>
   <link rel="alternate" href="http://matsue.rubyist.net/"/>
   <link rel="self" href="http://matsue.rubyist.net/feed.xml"/>
   <author>
     <name>Matsue.rb</name>
     <uri>http://matsuerb.github.io/</uri>
   </author>
+  <entry>
+    <id>tag:matsue.rubyist.net,2015-11-07:/news/2015/11/07/publish_data/</id>
+    <title type="html">Matsue.rbのロゴとTシャツデータを公開しました。</title>
+    <published>2015-11-06T15:00:00Z</published>
+    <updated>2015-11-06T15:00:00Z</updated>
+    <link rel="alternate" href="http://matsue.rubyist.net/news/2015/11/07/publish_data/"/>
+    <content type="html">&lt;p&gt;　Matsue.rbで使っているロゴとTシャツデータを以下で公開しました。いずれもCC0で公開しています。例えばロゴの文字部分を取ってお好みの角度にして使っていただく事などができます。
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/matsuerb/matsuerb-logo"&gt;ロゴ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/matsuerb/matsuerb-tshirt"&gt;Tシャツ(松江Ruby会議05)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <id>tag:matsue.rubyist.net,2015-10-24:/news/2015/10/24/matsuerb_h2711/</id>
     <title type="html">「Matsue.rb定例会H27.11」開催のお知らせ</title>
@@ -107,15 +123,6 @@
   &lt;/div&gt;
 
 &lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:matsue.rubyist.net,2015-07-10:/news/2015/07/10/matrk07_ann/</id>
-    <title type="html">「松江Ruby会議07」開催のお知らせ</title>
-    <published>2015-07-09T15:00:00Z</published>
-    <updated>2015-07-09T15:00:00Z</updated>
-    <link rel="alternate" href="http://matsue.rubyist.net/news/2015/07/10/matrk07_ann/"/>
-    <content type="html">&lt;p&gt;　9月26日(土)に&lt;a href="/matrk07"&gt;松江Ruby会議07&lt;/a&gt;を開催します。場所は&lt;a href="http://www.sanbg.com/terrsa/"&gt;松江テルサ&lt;/a&gt; 4F 大会議室で、時間は11:00から17:10です。詳細はリンク先をご覧ください。&lt;/p&gt;
 </content>
   </entry>
 </feed>
