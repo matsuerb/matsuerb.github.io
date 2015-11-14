@@ -19,7 +19,7 @@
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://github.com/matsuerb/matsuerb-logo"&gt;ロゴ&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/matsuerb/matsuerb-tshirt"&gt;Tシャツ(松江Ruby会議05)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/matsuerb/matsuerb-tshirt"&gt;Tシャツ(松江Ruby会議05時)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;/p&gt;
@@ -32,6 +32,30 @@
     <updated>2015-10-23T15:00:00Z</updated>
     <link rel="alternate" href="http://matsue.rubyist.net/news/2015/10/24/matsuerb_h2711/"/>
     <content type="html">&lt;p&gt;　11月28日(土)に&lt;a href="/about_us/#matsuerb"&gt;松江Ruby(Matsue.rb)定例会&lt;/a&gt;を開催します。場所は&lt;a href="/map/"&gt;松江オープンソースラボ&lt;/a&gt;で、時間は09:30から17:00までです。&lt;/p&gt;
+&lt;p&gt;　また、当日は以下のイベントもオープンソースラボで開催される予定です。詳細はリンク先をご覧ください。
+
+&lt;div class="table_wrapper" style="width: 95%"&gt;
+
+    &lt;table&gt;
+      &lt;thead&gt;
+        &lt;tr&gt;
+          &lt;th style="text-align: left"&gt;イベント名&lt;/th&gt;
+          &lt;th style="text-align: left"&gt;説明&lt;/th&gt;
+          &lt;th style="text-align: left"&gt;時間&lt;/th&gt;
+        &lt;/tr&gt;
+      &lt;/thead&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td style="text-align: left"&gt;&lt;a href="http://sproutrb.doorkeeper.jp/events/34631"&gt;スプラウト.rb&lt;/a&gt;&lt;/td&gt;
+          &lt;td style="text-align: left"&gt;Ruby on Rails勉強会。現在は&lt;a href="http://railstutorial.jp"&gt;Ruby on Rails チュートリアル&lt;/a&gt;の読書会を実施&lt;/td&gt;
+          &lt;td style="text-align: left"&gt;13:00-17:00(定例会と同時開催)&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+
+  &lt;/div&gt;
+
+&lt;/p&gt;
 </content>
   </entry>
   <entry>
