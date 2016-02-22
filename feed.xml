@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://matsue.rubyist.net/</id>
   <title>Matsue.rb(松江Ruby)</title>
-  <updated>2016-01-22T15:00:00Z</updated>
+  <updated>2016-02-19T15:00:00Z</updated>
   <link rel="alternate" href="http://matsue.rubyist.net/"/>
   <link rel="self" href="http://matsue.rubyist.net/feed.xml"/>
   <author>
     <name>Matsue.rb</name>
     <uri>http://matsuerb.github.io/</uri>
   </author>
+  <entry>
+    <id>tag:matsue.rubyist.net,2016-02-20:/news/2016/02/20/matsuerb_h2803/</id>
+    <title type="html">「Matsue.rb定例会H28.03」開催のお知らせ</title>
+    <published>2016-02-19T15:00:00Z</published>
+    <updated>2016-02-19T15:00:00Z</updated>
+    <link rel="alternate" href="http://matsue.rubyist.net/news/2016/02/20/matsuerb_h2803/"/>
+    <content type="html">&lt;p&gt;　3月19日(土)に&lt;a href="/about_us/#matsuerb"&gt;松江Ruby(Matsue.rb)定例会&lt;/a&gt;を開催します。場所は&lt;a href="/map/"&gt;松江オープンソースラボ&lt;/a&gt;で、時間は09:30から17:00までです。&lt;/p&gt;
+&lt;p&gt;　また、当日は以下のイベントもオープンソースラボで開催される予定です。詳細はリンク先をご覧ください。
+
+&lt;div class="table_wrapper" style="width: 95%"&gt;
+
+    &lt;table&gt;
+      &lt;thead&gt;
+        &lt;tr&gt;
+          &lt;th style="text-align: left"&gt;イベント名&lt;/th&gt;
+          &lt;th style="text-align: left"&gt;説明&lt;/th&gt;
+          &lt;th style="text-align: left"&gt;時間&lt;/th&gt;
+        &lt;/tr&gt;
+      &lt;/thead&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td style="text-align: left"&gt;&lt;a href="http://sproutrb.doorkeeper.jp/events/39715"&gt;スプラウト.rb&lt;/a&gt;&lt;/td&gt;
+          &lt;td style="text-align: left"&gt;Ruby on Rails勉強会。現在は&lt;a href="http://railstutorial.jp"&gt;Ruby on Rails チュートリアル&lt;/a&gt;の読書会を実施&lt;/td&gt;
+          &lt;td style="text-align: left"&gt;13:00-17:00(定例会と同時開催)&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+
+  &lt;/div&gt;
+
+&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <id>tag:matsue.rubyist.net,2016-01-23:/news/2016/01/23/matsuerb_h2802/</id>
     <title type="html">「Matsue.rb定例会H28.02」開催のお知らせ</title>
@@ -30,7 +63,7 @@
       &lt;/thead&gt;
       &lt;tbody&gt;
         &lt;tr&gt;
-          &lt;td style="text-align: left"&gt;&lt;a href="http://sproutrb.doorkeeper.jp/"&gt;スプラウト.rb&lt;/a&gt;&lt;/td&gt;
+          &lt;td style="text-align: left"&gt;&lt;a href="http://sproutrb.doorkeeper.jp/events/39263"&gt;スプラウト.rb&lt;/a&gt;&lt;/td&gt;
           &lt;td style="text-align: left"&gt;Ruby on Rails勉強会。現在は&lt;a href="http://railstutorial.jp"&gt;Ruby on Rails チュートリアル&lt;/a&gt;の読書会を実施&lt;/td&gt;
           &lt;td style="text-align: left"&gt;13:00-17:00(定例会と同時開催)&lt;/td&gt;
         &lt;/tr&gt;
@@ -116,25 +149,9 @@
     <link rel="alternate" href="http://matsue.rubyist.net/news/2015/11/28/railsgirlsmatsue/"/>
     <content type="html">&lt;p&gt;　2015年11月13日(金)から14日(土)に開催された &lt;a href="http://railsgirls.com/matsue"&gt;Rails Girls Matsue&lt;/a&gt; で Matsue.rb のメンバー数名がコーチの一員として参加しました。&lt;/p&gt;
 
-&lt;p&gt;　当日の様子は Rails Girls公式ブログ(後日公開予定)などでご覧になる事ができます。すべてのテキストは &lt;a href="http://railsgirls.jp/"&gt;Rails Girls Guides&lt;/a&gt; から見る事ができますので、当日参加できなかった方も試してみる事が可能です。色々な項目がありますのでよかったらお試しください。&lt;/p&gt;
+&lt;p&gt;　当日の様子は &lt;a href="http://blog.railsgirls.jp/post/138670797287/railsgirls-matsue2nd"&gt;Rails Girls公式ブログ(&lt;strike&gt;後日公開予定&lt;/strike&gt;公開されました)&lt;/a&gt; などでご覧になる事ができます。すべてのテキストは &lt;a href="http://railsgirls.jp/"&gt;Rails Girls Guides&lt;/a&gt; から見る事ができますので、当日参加できなかった方も試してみる事が可能です。色々な項目がありますのでよかったらお試しください。&lt;/p&gt;
 
 &lt;p&gt;　また、2015年12月18日(金)から19日(土)に &lt;a href="http://railsgirls.com/okayama2015"&gt;Rails Girls Okayama&lt;/a&gt;の開催も決まっていますので、お近くにお住まいの方はよかったらご検討ください。応募締切は11月30日(月)です。&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:matsue.rubyist.net,2015-11-07:/news/2015/11/07/publish_data/</id>
-    <title type="html">Matsue.rbのロゴとTシャツデータを公開しました。</title>
-    <published>2015-11-06T15:00:00Z</published>
-    <updated>2015-11-06T15:00:00Z</updated>
-    <link rel="alternate" href="http://matsue.rubyist.net/news/2015/11/07/publish_data/"/>
-    <content type="html">&lt;p&gt;　Matsue.rbで使っているロゴとTシャツデータを以下で公開しました。いずれもCC0で公開しています。例えばロゴの文字部分を取ってお好みの角度にして使っていただく事などができます。
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/matsuerb/matsuerb-logo"&gt;ロゴ&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/matsuerb/matsuerb-tshirt"&gt;Tシャツ(松江Ruby会議05時)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;/p&gt;
 </content>
   </entry>
 </feed>
