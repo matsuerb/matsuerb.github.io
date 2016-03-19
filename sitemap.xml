@@ -6,7 +6,7 @@
   </url>
   <url>
     <loc>http://matsue.rubyist.net/about_us/</loc>
-    <lastmod>2015-12-16</lastmod>
+    <lastmod>2016-03-19</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/calendar.ics</loc>
@@ -238,37 +238,43 @@
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2015/11/28/matsuerb_h2712/</loc>
-    <lastmod>2015-12-16</lastmod>
+    <lastmod>2016-03-19</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2015/11/28/railsgirlsmatsue/</loc>
-    <lastmod>2016-02-05</lastmod>
+    <lastmod>2016-03-19</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matsue.rubyist.net/news/2015/12/26/matsue-rubykaigi07/</loc>
+    <lastmod>2016-03-19</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2015/12/26/matsuerb_h2801/</loc>
-    <lastmod>2016-01-19</lastmod>
+    <lastmod>2016-03-19</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2016/01/23/matsuerb_h2802/</loc>
-    <lastmod>2016-02-22</lastmod>
+    <lastmod>2016-03-19</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2016/02/20/matsuerb_h2803/</loc>
-    <lastmod>2016-02-20</lastmod>
+    <lastmod>2016-03-19</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/schedule/</loc>
-    <lastmod>2016-02-22</lastmod>
+    <lastmod>2016-03-19</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/sitemap.xml</loc>
