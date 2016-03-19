@@ -2,13 +2,85 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://matsue.rubyist.net/</id>
   <title>Matsue.rb(松江Ruby)</title>
-  <updated>2016-02-19T15:00:00Z</updated>
+  <updated>2016-03-18T15:00:00Z</updated>
   <link rel="alternate" href="http://matsue.rubyist.net/"/>
   <link rel="self" href="http://matsue.rubyist.net/feed.xml"/>
   <author>
     <name>Matsue.rb</name>
     <uri>http://matsuerb.github.io/</uri>
   </author>
+  <entry>
+    <id>tag:matsue.rubyist.net,2016-03-19:/news/2016/03/19/matsuerb_h2804/</id>
+    <title type="html">「Matsue.rb定例会H28.04」開催のお知らせ</title>
+    <published>2016-03-18T15:00:00Z</published>
+    <updated>2016-03-18T15:00:00Z</updated>
+    <link rel="alternate" href="http://matsue.rubyist.net/news/2016/03/19/matsuerb_h2804/"/>
+    <content type="html">&lt;p&gt;　4月16日(土)に&lt;a href="/about_us/#matsuerb"&gt;松江Ruby(Matsue.rb)定例会&lt;/a&gt;を開催します。場所は&lt;a href="/map/"&gt;松江オープンソースラボ&lt;/a&gt;で、時間は09:30から17:00までです。&lt;/p&gt;
+&lt;p&gt;　また、当日は以下のイベントもオープンソースラボで開催される予定です。詳細はリンク先をご覧ください。
+
+&lt;div class="table_wrapper" style="width: 95%"&gt;
+
+    &lt;table&gt;
+      &lt;thead&gt;
+        &lt;tr&gt;
+          &lt;th style="text-align: left"&gt;イベント名&lt;/th&gt;
+          &lt;th style="text-align: left"&gt;説明&lt;/th&gt;
+          &lt;th style="text-align: left"&gt;時間&lt;/th&gt;
+        &lt;/tr&gt;
+      &lt;/thead&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td style="text-align: left"&gt;&lt;a href="http://sproutrb.doorkeeper.jp/events/41614"&gt;スプラウト.rb&lt;/a&gt;&lt;/td&gt;
+          &lt;td style="text-align: left"&gt;Ruby on Rails勉強会。現在は&lt;a href="http://railstutorial.jp"&gt;Ruby on Rails チュートリアル&lt;/a&gt;の読書会を実施&lt;/td&gt;
+          &lt;td style="text-align: left"&gt;13:00-17:00(定例会と同時開催)&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+
+  &lt;/div&gt;
+
+&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:matsue.rubyist.net,2016-03-19:/news/2016/03/19/matsue-rubykaigi07/</id>
+    <title type="html">「松江Ruby会議07」を開催しました</title>
+    <published>2016-03-18T15:00:00Z</published>
+    <updated>2016-03-18T15:00:00Z</updated>
+    <link rel="alternate" href="http://matsue.rubyist.net/news/2016/03/19/matsue-rubykaigi07/"/>
+    <content type="html">&lt;p&gt;2015/09/26（土）に松江Ruby会議07が松江テルサ４Ｆ大会議室で開催されました。
+たくさんの方にご来場いただき、なんと来場者数66名（スタッフ込）を記録しました！&lt;/p&gt;
+
+&lt;h2 id="section"&gt;詳細は以下のリンクからご確認ください。&lt;/h2&gt;
+
+&lt;h3 id="section-1"&gt;写真&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a target="_blank" href="https://www.flickr.com/groups/2901550@N22/"&gt;写真一覧&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="section-2"&gt;動画&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a target="_blank" href="https://www.youtube.com/playlist?list=PLbJxhePIoIPBSYjO2enmqSTpucHuHiA9S"&gt;一覧&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a target="_blank" href="https://www.youtube.com/watch?v=yPVa4fPy97M&amp;amp;list=PLbJxhePIoIPBSYjO2enmqSTpucHuHiA9S&amp;amp;index=1"&gt;01_ゲスト講演&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a target="_blank" href="https://www.youtube.com/watch?v=6qeDbaVa4Qg&amp;amp;list=PLbJxhePIoIPBSYjO2enmqSTpucHuHiA9S&amp;amp;index=2"&gt;02_LT&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a target="_blank" href="https://www.youtube.com/watch?v=1dFyGN_7-8U&amp;amp;index=3&amp;amp;list=PLbJxhePIoIPBSYjO2enmqSTpucHuHiA9S"&gt;03_基調講演&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a target="_blank" href="https://www.youtube.com/watch?v=FkhPgibIIY0&amp;amp;list=PLbJxhePIoIPBSYjO2enmqSTpucHuHiA9S&amp;amp;index=4"&gt;04_セッション1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a target="_blank" href="https://www.youtube.com/watch?v=ca_Vj4eBOBQ&amp;amp;list=PLbJxhePIoIPBSYjO2enmqSTpucHuHiA9S&amp;amp;index=5"&gt;05_セッション2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a target="_blank" href="https://www.youtube.com/watch?v=aYdqMsk2ELM&amp;amp;list=PLbJxhePIoIPBSYjO2enmqSTpucHuHiA9S&amp;amp;index=6"&gt;06_プログラミングコンテスト結果紹介&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a target="_blank" href="https://www.youtube.com/watch?v=SFx_FiFYvHs&amp;amp;list=PLbJxhePIoIPBSYjO2enmqSTpucHuHiA9S&amp;amp;index=7"&gt;07_セッション3&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a target="_blank" href="https://www.youtube.com/watch?v=y-trBvQ0NLg&amp;amp;index=8&amp;amp;list=PLbJxhePIoIPBSYjO2enmqSTpucHuHiA9S"&gt;08_セッション4&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a target="_blank" href="https://www.youtube.com/watch?v=eKtUICwOAME&amp;amp;index=9&amp;amp;list=PLbJxhePIoIPBSYjO2enmqSTpucHuHiA9S"&gt;09_RubyQuiz&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="section-3"&gt;レポート&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a target="_blank" href="http://magazine.rubyist.net/?0052-MatsueRubyKaigi07Report"&gt;RegionalRubyKaigi レポート (55) 松江 Ruby 会議 07&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
   <entry>
     <id>tag:matsue.rubyist.net,2016-02-20:/news/2016/02/20/matsuerb_h2803/</id>
     <title type="html">「Matsue.rb定例会H28.03」開催のお知らせ</title>
@@ -106,68 +178,6 @@
   &lt;/div&gt;
 
 &lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:matsue.rubyist.net,2015-12-26:/news/2015/12/26/matsue-rubykaigi07/</id>
-    <title type="html">「松江Ruby会議07」を開催しました</title>
-    <published>2015-12-25T15:00:00Z</published>
-    <updated>2015-12-25T15:00:00Z</updated>
-    <link rel="alternate" href="http://matsue.rubyist.net/news/2015/12/26/matsue-rubykaigi07/"/>
-    <content type="html">&lt;p&gt;2015/09/26（土）に松江Ruby会議07が松江テルサ４Ｆ大会議室で開催されました。
-たくさんの方にご来場いただき、なんと来場者数66名（スタッフ込）を記録しました！&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/matrk06/img/matsue-rubykaigi06-syougou.jpg" alt="集合写真" /&gt;&lt;/p&gt;
-
-&lt;h2 id="section"&gt;詳細は以下のリンクからご確認ください。&lt;/h2&gt;
-
-&lt;h3 id="section-1"&gt;写真&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a target="_blank" href="https://www.flickr.com/groups/2875305@N22/pool/"&gt;01_準備とオープニング&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a target="_blank" href="https://www.flickr.com/groups/2860565@N21/pool/"&gt;02_基調講演&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a target="_blank" href="https://www.flickr.com/groups/2819938@N24/pool/"&gt;03_ショートセッション&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a target="_blank" href="https://www.flickr.com/groups/2813862@N25/pool/"&gt;04_ライブコーディング大喜利&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a target="_blank" href="https://www.flickr.com/groups/2863519@N23/pool/"&gt;05_ゲスト講演&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a target="_blank" href="https://www.flickr.com/groups/2886121@N22/pool/"&gt;06_セッション1(Matsue.rb 2014ふりかえり)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a target="_blank" href="https://www.flickr.com/groups/2823956@N23/pool/"&gt;07_セッション3(スモウルビーでライブコーディング)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a target="_blank" href="https://www.flickr.com/groups/2849741@N23/pool/"&gt;08_クロージング&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a target="_blank" href="https://www.flickr.com/groups/2886131@N22/pool/"&gt;09_懇親会&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id="section-2"&gt;動画&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a target="_blank" href="https://www.youtube.com/playlist?list=PLbJxhePIoIPBSYjO2enmqSTpucHuHiA9S"&gt;一覧&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a target="_blank" href="https://www.youtube.com/watch?v=yPVa4fPy97M&amp;amp;list=PLbJxhePIoIPBSYjO2enmqSTpucHuHiA9S&amp;amp;index=1"&gt;0X_TODO&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a target="_blank" href="https://www.youtube.com/watch?v=6qeDbaVa4Qg&amp;amp;list=PLbJxhePIoIPBSYjO2enmqSTpucHuHiA9S&amp;amp;index=2"&gt;0X_TODO&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a target="_blank" href="https://www.youtube.com/watch?v=1dFyGN_7-8U&amp;amp;index=3&amp;amp;list=PLbJxhePIoIPBSYjO2enmqSTpucHuHiA9S"&gt;0X_TODO&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a target="_blank" href="https://www.youtube.com/watch?v=FkhPgibIIY0&amp;amp;list=PLbJxhePIoIPBSYjO2enmqSTpucHuHiA9S&amp;amp;index=4"&gt;0X_TODO&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a target="_blank" href="https://www.youtube.com/watch?v=ca_Vj4eBOBQ&amp;amp;list=PLbJxhePIoIPBSYjO2enmqSTpucHuHiA9S&amp;amp;index=5"&gt;0X_TODO&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a target="_blank" href="https://www.youtube.com/watch?v=aYdqMsk2ELM&amp;amp;list=PLbJxhePIoIPBSYjO2enmqSTpucHuHiA9S&amp;amp;index=6"&gt;0X_TODO&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a target="_blank" href="https://www.youtube.com/watch?v=SFx_FiFYvHs&amp;amp;list=PLbJxhePIoIPBSYjO2enmqSTpucHuHiA9S&amp;amp;index=7"&gt;0X_TODO&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a target="_blank" href="https://www.youtube.com/watch?v=y-trBvQ0NLg&amp;amp;index=8&amp;amp;list=PLbJxhePIoIPBSYjO2enmqSTpucHuHiA9S"&gt;0X_TODO&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a target="_blank" href="https://www.youtube.com/watch?v=eKtUICwOAME&amp;amp;index=9&amp;amp;list=PLbJxhePIoIPBSYjO2enmqSTpucHuHiA9S"&gt;0X_TODO&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id="section-3"&gt;レポート&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a target="_blank" href="http://magazine.rubyist.net/?0052-MatsueRubyKaigi07Report"&gt;RegionalRubyKaigi レポート (TODO) 松江 Ruby 会議 07&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:matsue.rubyist.net,2015-11-28:/news/2015/11/28/railsgirlsmatsue/</id>
-    <title type="html">「Rails Girls Matsue」のお手伝いをしました</title>
-    <published>2015-11-27T15:00:00Z</published>
-    <updated>2015-11-27T15:00:00Z</updated>
-    <link rel="alternate" href="http://matsue.rubyist.net/news/2015/11/28/railsgirlsmatsue/"/>
-    <content type="html">&lt;p&gt;　2015年11月13日(金)から14日(土)に開催された &lt;a href="http://railsgirls.com/matsue"&gt;Rails Girls Matsue&lt;/a&gt; で Matsue.rb のメンバー数名がコーチの一員として参加しました。&lt;/p&gt;
-
-&lt;p&gt;　当日の様子は &lt;a href="http://blog.railsgirls.jp/post/138670797287/railsgirls-matsue2nd"&gt;Rails Girls公式ブログ(&lt;strike&gt;後日公開予定&lt;/strike&gt;公開されました)&lt;/a&gt; などでご覧になる事ができます。すべてのテキストは &lt;a href="http://railsgirls.jp/"&gt;Rails Girls Guides&lt;/a&gt; から見る事ができますので、当日参加できなかった方も試してみる事が可能です。色々な項目がありますのでよかったらお試しください。&lt;/p&gt;
-
-&lt;p&gt;　また、2015年12月18日(金)から19日(土)に &lt;a href="http://railsgirls.com/okayama2015"&gt;Rails Girls Okayama&lt;/a&gt;の開催も決まっていますので、お近くにお住まいの方はよかったらご検討ください。応募締切は11月30日(月)です。&lt;/p&gt;
 </content>
   </entry>
 </feed>

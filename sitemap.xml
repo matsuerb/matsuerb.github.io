@@ -249,12 +249,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://matsue.rubyist.net/news/2015/12/26/matsue-rubykaigi07/</loc>
-    <lastmod>2016-03-19</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://matsue.rubyist.net/news/2015/12/26/matsuerb_h2801/</loc>
     <lastmod>2016-03-19</lastmod>
     <changefreq>never</changefreq>
@@ -268,6 +262,18 @@
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2016/02/20/matsuerb_h2803/</loc>
+    <lastmod>2016-03-19</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matsue.rubyist.net/news/2016/03/19/matsue-rubykaigi07/</loc>
+    <lastmod>2016-03-19</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matsue.rubyist.net/news/2016/03/19/matsuerb_h2804/</loc>
     <lastmod>2016-03-19</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
