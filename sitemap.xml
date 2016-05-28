@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://matsue.rubyist.net/</loc>
-    <lastmod>2015-09-04</lastmod>
+    <lastmod>2016-05-28</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/about_us/</loc>
@@ -285,8 +285,14 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://matsue.rubyist.net/news/2016/05/28/matsuerb_h2806/</loc>
+    <lastmod>2016-05-28</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://matsue.rubyist.net/schedule/</loc>
-    <lastmod>2016-04-16</lastmod>
+    <lastmod>2016-05-28</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/sitemap.xml</loc>
