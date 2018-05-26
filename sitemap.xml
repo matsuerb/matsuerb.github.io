@@ -2,327 +2,335 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://matsue.rubyist.net/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-07-23</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/about_us/</loc>
-    <lastmod>2018-04-25</lastmod>
+    <lastmod>2018-05-02</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/calendar.ics</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-07-23</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/contact/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-07-23</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/feed.xml</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-07-23</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/map/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-07-23</lastmod>
+  </url>
+  <url>
+    <loc>http://matsue.rubyist.net/matrk08/</loc>
+    <lastmod>2018-05-26</lastmod>
+  </url>
+  <url>
+    <loc>http://matsue.rubyist.net/matrk09/</loc>
+    <lastmod>2018-05-26</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/members/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-07-23</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-07-23</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2013/08/14/open/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-07-23</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2013/08/15/matsuerb_h2508/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-07-23</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2013/08/18/matsuerb_h2509/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-07-23</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2013/09/22/matsuerb_h2510/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-07-23</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2013/10/20/matsuerb_h2511/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-07-23</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2013/11/17/matsuerb_h2512/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-07-23</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2013/12/08/matsuerb_h2601/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-07-23</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2014/01/17/matrk05-ann/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-07-23</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2014/01/17/matsuerb_h2602/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-07-23</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2014/01/17/railsgirlsmatsue/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-07-23</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2014/03/15/matsuerb_h2604/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-07-23</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2014/04/26/matsuerb_h2605/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-07-23</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2014/05/31/matsuerb_h2606/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-07-23</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2014/06/28/matsuerb_h2607/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-07-23</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2014/07/19/matsuerb_h2608/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-07-23</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2014/08/14/matsuerb_h2609/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-07-23</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2014/09/27/matsuerb_h2610/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-10-18</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2014/10/25/matsuerb_h2611/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-10-18</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2014/11/11/matrk06-ann/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-07-23</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2014/11/15/matsuerb_h2701/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-10-18</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2015/01/10/matsuerb_h2702/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-10-18</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2015/02/28/matsue-rubykaigi06/</loc>
-    <lastmod>2018-04-25</lastmod>
+    <lastmod>2018-05-02</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2015/02/28/matsuerb_h2703/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-10-18</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2015/03/21/matsuerb_h2704/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-10-18</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2015/04/25/matsuerb_h2705/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-10-18</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2015/05/23/matsuerb_h2706/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-10-18</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2015/06/22/matsue-rubykaigi06/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-07-23</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2015/06/27/matsuerb_h2707/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-10-18</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2015/07/10/matrk07_ann/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-07-23</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2015/07/25/matsuerb_h2708/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-10-18</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2015/08/29/matsuerb_h2710/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-10-18</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2015/09/06/matrk07-and-railsgirls-matsue/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-07-23</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2015/10/24/matsuerb_h2711/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-10-18</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2015/11/07/publish_data/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-07-23</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2015/11/28/matsuerb_h2712/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-10-18</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2015/11/28/railsgirlsmatsue/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-07-23</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2015/12/26/matsuerb_h2801/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-10-18</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2016/01/23/matsuerb_h2802/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-10-18</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2016/02/20/matsuerb_h2803/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-10-18</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2016/03/19/matsue-rubykaigi07/</loc>
-    <lastmod>2018-04-25</lastmod>
+    <lastmod>2018-05-02</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2016/03/19/matsuerb_h2804/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-10-18</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2016/04/16/matsuerb_h2805/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-10-18</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2016/05/28/matsuerb_h2806/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-10-18</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2016/06/25/matsuerb_h2807/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-10-18</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2016/06/25/site_renewal/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-07-23</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2016/07/28/matsuerb_h2808/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-09-03</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2016/08/20/matsuerb_h2809/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-09-03</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2016/09/03/matsuerb_h2810/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-10-18</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2016/10/15/matsuerb_h2811/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-10-18</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
@@ -429,16 +437,22 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://matsue.rubyist.net/news/2018/05/26/matsuerb_h3006/</loc>
+    <lastmod>2018-05-26</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://matsue.rubyist.net/schedule/</loc>
-    <lastmod>2018-04-25</lastmod>
+    <lastmod>2018-05-02</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/sitemap.xml</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-07-23</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/tags/</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2016-07-23</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/tags/イベント/</loc>
