@@ -6,7 +6,7 @@
   </url>
   <url>
     <loc>http://matsue.rubyist.net/about_us/</loc>
-    <lastmod>2018-04-26</lastmod>
+    <lastmod>2018-09-01</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/calendar.ics</loc>
@@ -26,23 +26,31 @@
   </url>
   <url>
     <loc>http://matsue.rubyist.net/matrk05/</loc>
-    <lastmod>2018-06-25</lastmod>
+    <lastmod>2018-07-21</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/matrk06/</loc>
-    <lastmod>2018-06-25</lastmod>
+    <lastmod>2018-07-21</lastmod>
+  </url>
+  <url>
+    <loc>http://matsue.rubyist.net/matrk06/ogiri/</loc>
+    <lastmod>2018-07-21</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/matrk07/</loc>
-    <lastmod>2018-06-21</lastmod>
+    <lastmod>2018-07-21</lastmod>
+  </url>
+  <url>
+    <loc>http://matsue.rubyist.net/matrk07/contest/</loc>
+    <lastmod>2018-08-25</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/matrk08/</loc>
-    <lastmod>2018-05-26</lastmod>
+    <lastmod>2018-07-21</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/matrk09/</loc>
-    <lastmod>2018-06-26</lastmod>
+    <lastmod>2018-07-21</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/members/</loc>
@@ -456,13 +464,25 @@
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2018/06/24/matsuerb_h3007/</loc>
-    <lastmod>2018-06-24</lastmod>
+    <lastmod>2018-09-01</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matsue.rubyist.net/news/2018/07/21/matsuerb_h3008/</loc>
+    <lastmod>2018-09-01</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matsue.rubyist.net/news/2018/09/01/matsuerb_h3009/</loc>
+    <lastmod>2018-09-01</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/schedule/</loc>
-    <lastmod>2018-06-24</lastmod>
+    <lastmod>2018-09-01</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/sitemap.xml</loc>
