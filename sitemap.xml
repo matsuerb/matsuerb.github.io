@@ -506,13 +506,19 @@
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2018/12/18/matsuerb_h3101/</loc>
-    <lastmod>2018-12-18</lastmod>
+    <lastmod>2019-01-19</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matsue.rubyist.net/news/2019/01/19/matsuerb_h3102/</loc>
+    <lastmod>2019-01-19</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/schedule/</loc>
-    <lastmod>2018-12-18</lastmod>
+    <lastmod>2018-12-24</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/sitemap.xml</loc>
