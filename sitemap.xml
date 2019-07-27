@@ -469,6 +469,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://matsue.rubyist.net/news/2018/07/18/matsue-rubykaigi08/</loc>
+    <lastmod>2019-07-06</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://matsue.rubyist.net/news/2018/07/21/matsuerb_h3008/</loc>
     <lastmod>2018-09-17</lastmod>
     <changefreq>never</changefreq>
@@ -547,8 +553,14 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://matsue.rubyist.net/news/2019/07/27/matsuerb_r0108/</loc>
+    <lastmod>2019-07-27</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://matsue.rubyist.net/schedule/</loc>
-    <lastmod>2019-06-30</lastmod>
+    <lastmod>2019-07-27</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/sitemap.xml</loc>
