@@ -571,12 +571,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://matsue.rubyist.net/news/2019/10/30/matsuerb_r0111/</loc>
+    <lastmod>2019-10-30</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://matsue.rubyist.net/schedule/</loc>
-    <lastmod>2019-10-18</lastmod>
+    <lastmod>2019-10-30</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/sitemap.xml</loc>
-    <lastmod>2019-10-18</lastmod>
+    <lastmod>2019-10-30</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/tags/</loc>
