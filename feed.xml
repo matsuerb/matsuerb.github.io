@@ -1,61 +1,60 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="http://matsue.rubyist.net/">
   <id>http://matsue.rubyist.net/</id>
   <title>Matsue.rb(松江Ruby)</title>
   <updated>2020-01-17T15:00:00Z</updated>
-  <link rel="alternate" href="http://matsue.rubyist.net/"/>
-  <link rel="self" href="http://matsue.rubyist.net/feed.xml"/>
+  <link rel="alternate" href="http://matsue.rubyist.net/" type="text/html"/>
+  <link rel="self" href="http://matsue.rubyist.net/feed.xml" type="application/atom+xml"/>
   <author>
     <name>Matsue.rb</name>
     <uri>http://matsuerb.github.io/</uri>
   </author>
   <entry>
-    <id>tag:matsue.rubyist.net,2020-01-18:/news/2020/01/18/matsuerb_r0202/</id>
+    <id>tag:matsue.rubyist.net,2020-01-17:/news/2020/01/18/matsuerb_r0202/</id>
     <title type="html">「Matsue.rb定例会R02.02」開催のお知らせ</title>
     <published>2020-01-17T15:00:00Z</published>
     <updated>2020-01-17T15:00:00Z</updated>
-    <link rel="alternate" href="http://matsue.rubyist.net/news/2020/01/18/matsuerb_r0202/"/>
+    <link rel="alternate" href="http://matsue.rubyist.net/news/2020/01/18/matsuerb_r0202/" type="text/html"/>
     <content type="html">
 &lt;p&gt;　2月29日(土)に&lt;a href="/about_us/#matsuerb"&gt;松江Ruby(Matsue.rb)定例会&lt;/a&gt;を開催します。場所は&lt;a href="/map/"&gt;松江オープンソースラボ&lt;/a&gt;で、時間は09:30から17:00までです。&lt;/p&gt;
 </content>
   </entry>
   <entry>
-    <id>tag:matsue.rubyist.net,2019-12-21:/news/2019/12/21/matsuerb_r0201/</id>
+    <id>tag:matsue.rubyist.net,2019-12-20:/news/2019/12/21/matsuerb_r0201/</id>
     <title type="html">「Matsue.rb定例会R02.01」開催のお知らせ</title>
     <published>2019-12-20T15:00:00Z</published>
     <updated>2019-12-20T15:00:00Z</updated>
-    <link rel="alternate" href="http://matsue.rubyist.net/news/2019/12/21/matsuerb_r0201/"/>
+    <link rel="alternate" href="http://matsue.rubyist.net/news/2019/12/21/matsuerb_r0201/" type="text/html"/>
     <content type="html">
 &lt;p&gt;　1月18日(土)に&lt;a href="/about_us/#matsuerb"&gt;松江Ruby(Matsue.rb)定例会&lt;/a&gt;を開催します。場所は&lt;a href="/map/"&gt;松江オープンソースラボ&lt;/a&gt;で、時間は09:30から17:00までです。&lt;/p&gt;
 </content>
   </entry>
   <entry>
-    <id>tag:matsue.rubyist.net,2019-11-16:/news/2019/11/16/matsuerb_r0112/</id>
+    <id>tag:matsue.rubyist.net,2019-11-15:/news/2019/11/16/matsuerb_r0112/</id>
     <title type="html">「Matsue.rb定例会R01.12」開催のお知らせ</title>
     <published>2019-11-15T15:00:00Z</published>
     <updated>2019-11-15T15:00:00Z</updated>
-    <link rel="alternate" href="http://matsue.rubyist.net/news/2019/11/16/matsuerb_r0112/"/>
+    <link rel="alternate" href="http://matsue.rubyist.net/news/2019/11/16/matsuerb_r0112/" type="text/html"/>
     <content type="html">
 &lt;p&gt;　12月21日(土)に&lt;a href="/about_us/#matsuerb"&gt;松江Ruby(Matsue.rb)定例会&lt;/a&gt;を開催します。場所は&lt;a href="/map/"&gt;松江オープンソースラボ&lt;/a&gt;で、時間は09:30から17:00までです。&lt;/p&gt;
 </content>
   </entry>
   <entry>
-    <id>tag:matsue.rubyist.net,2019-10-30:/news/2019/10/30/matsuerb_r0111/</id>
+    <id>tag:matsue.rubyist.net,2019-10-29:/news/2019/10/30/matsuerb_r0111/</id>
     <title type="html">「Matsue.rb定例会R01.11」開催のお知らせ</title>
     <published>2019-10-29T15:00:00Z</published>
     <updated>2019-10-29T15:00:00Z</updated>
-    <link rel="alternate" href="http://matsue.rubyist.net/news/2019/10/30/matsuerb_r0111/"/>
+    <link rel="alternate" href="http://matsue.rubyist.net/news/2019/10/30/matsuerb_r0111/" type="text/html"/>
     <content type="html">
 &lt;p&gt;　11月16日(土)に&lt;a href="/about_us/#matsuerb"&gt;松江Ruby(Matsue.rb)定例会&lt;/a&gt;を開催します。場所は&lt;a href="/map/"&gt;松江オープンソースラボ&lt;/a&gt;で、時間は09:30から17:00までです。&lt;/p&gt;
 </content>
   </entry>
   <entry>
-    <id>tag:matsue.rubyist.net,2019-10-18:/news/2019/10/18/matsuerb_r0110/</id>
+    <id>tag:matsue.rubyist.net,2019-10-17:/news/2019/10/18/matsuerb_r0110/</id>
     <title type="html">「Matsue.rb定例会R01.10」開催のお知らせ</title>
     <published>2019-10-17T15:00:00Z</published>
     <updated>2019-10-17T15:00:00Z</updated>
-    <link rel="alternate" href="http://matsue.rubyist.net/news/2019/10/18/matsuerb_r0110/"/>
+    <link rel="alternate" href="http://matsue.rubyist.net/news/2019/10/18/matsuerb_r0110/" type="text/html"/>
     <content type="html">
 &lt;p&gt;　10月26日(土)に&lt;a href="/about_us/#matsuerb"&gt;松江Ruby(Matsue.rb)定例会&lt;/a&gt;を開催します。場所は&lt;a href="/map/"&gt;松江オープンソースラボ&lt;/a&gt;で、時間は09:30から17:00までです。&lt;/p&gt;
 </content>
