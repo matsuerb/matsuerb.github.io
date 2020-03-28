@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://matsue.rubyist.net/</loc>
-    <lastmod>2019-09-08</lastmod>
+    <lastmod>2020-03-28</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/about_us/</loc>
@@ -596,13 +596,19 @@
   </url>
   <url>
     <loc>http://matsue.rubyist.net/news/2020/02/29/matsuerb_r0203/</loc>
-    <lastmod>2020-02-29</lastmod>
+    <lastmod>2020-03-02</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matsue.rubyist.net/news/2020/03/28/matsuerb_r0204/</loc>
+    <lastmod>2020-03-28</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/schedule/</loc>
-    <lastmod>2020-03-02</lastmod>
+    <lastmod>2020-03-28</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/sitemap.xml</loc>
@@ -622,7 +628,7 @@
   </url>
   <url>
     <loc>http://matsue.rubyist.net/css/siteindex.css</loc>
-    <lastmod>2016-07-23</lastmod>
+    <lastmod>2020-03-28</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/google5c9f1a2aa704c8ef.html</loc>
@@ -634,7 +640,7 @@
   </url>
   <url>
     <loc>http://matsue.rubyist.net/js/grid/columnset.js</loc>
-    <lastmod>2019-01-19</lastmod>
+    <lastmod>2020-03-03</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/js/grid/jquery-3.4.1.min.js</loc>
