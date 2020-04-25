@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://matsue.rubyist.net/</loc>
-    <lastmod>2020-03-28</lastmod>
+    <lastmod>2020-04-25</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/about_us/</loc>
@@ -54,7 +54,7 @@
   </url>
   <url>
     <loc>http://matsue.rubyist.net/matrk10/</loc>
-    <lastmod>2020-03-28</lastmod>
+    <lastmod>2020-04-25</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/members/</loc>
@@ -638,7 +638,7 @@
   </url>
   <url>
     <loc>http://matsue.rubyist.net/css/siteindex.css</loc>
-    <lastmod>2020-03-28</lastmod>
+    <lastmod>2020-04-25</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/google5c9f1a2aa704c8ef.html</loc>
@@ -650,7 +650,7 @@
   </url>
   <url>
     <loc>http://matsue.rubyist.net/js/grid/columnset.js</loc>
-    <lastmod>2020-03-03</lastmod>
+    <lastmod>2020-04-25</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/js/grid/jquery-3.4.1.min.js</loc>
@@ -678,7 +678,7 @@
   </url>
   <url>
     <loc>http://matsue.rubyist.net/matrk10/css/application.css</loc>
-    <lastmod>2020-03-28</lastmod>
+    <lastmod>2020-04-25</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/matrk_common/css/bootstrap.css</loc>
@@ -690,7 +690,7 @@
   </url>
   <url>
     <loc>http://matsue.rubyist.net/matrk_common/css/normalize.css</loc>
-    <lastmod>2020-03-28</lastmod>
+    <lastmod>2020-04-25</lastmod>
   </url>
   <url>
     <loc>http://matsue.rubyist.net/matrk_common/js/application.js</loc>
