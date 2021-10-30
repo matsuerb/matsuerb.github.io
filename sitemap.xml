@@ -729,6 +729,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://matsue.rubyist.net/news/2021/10/30/matsuerb_r0312/</loc>
+    <lastmod>2021-10-30</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://matsue.rubyist.net/schedule/</loc>
     <lastmod>2021-10-30</lastmod>
   </url>
