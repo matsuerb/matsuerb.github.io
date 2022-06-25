@@ -771,8 +771,26 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://matsue.rubyist.net/news/2022/06/25/matsuerb_r0407/</loc>
+    <lastmod>2022-06-25</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://matsue.rubyist.net/news/2022/06/25/matsuerb_r0408/</loc>
+    <lastmod>2022-06-25</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://matsue.rubyist.net/news/2022/06/25/matsuerb_r0409/</loc>
+    <lastmod>2022-06-25</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://matsue.rubyist.net/schedule/</loc>
-    <lastmod>2022-04-23</lastmod>
+    <lastmod>2022-06-25</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/sitemap.xml</loc>
