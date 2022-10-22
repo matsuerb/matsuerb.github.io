@@ -2,13 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://matsue.rubyist.net/">
   <id>https://matsue.rubyist.net/</id>
   <title>Matsue.rb(松江Ruby)</title>
-  <updated>2022-06-24T15:00:00Z</updated>
+  <updated>2022-10-21T15:00:00Z</updated>
   <link rel="alternate" href="https://matsue.rubyist.net/" type="text/html"/>
   <link rel="self" href="https://matsue.rubyist.net/feed.xml" type="application/atom+xml"/>
   <author>
     <name>Matsue.rb</name>
     <uri>http://matsuerb.github.io/</uri>
   </author>
+  <entry>
+    <id>tag:matsue.rubyist.net,2022-10-21:/news/2022/10/22/matsuerb_r0412/</id>
+    <title type="html">「Matsue.rb定例会R04.12」開催のお知らせ</title>
+    <published>2022-10-21T15:00:00Z</published>
+    <updated>2022-10-21T15:00:00Z</updated>
+    <link rel="alternate" href="https://matsue.rubyist.net/news/2022/10/22/matsuerb_r0412/" type="text/html"/>
+    <content type="html">
+&lt;p&gt;　12月17日(土)に&lt;a href="/about_us/#matsuerb"&gt;松江Ruby(Matsue.rb)定例会&lt;/a&gt;を開催します。場所は&lt;a href="/map/"&gt;松江オープンソースラボ&lt;/a&gt;で、時間は13:00から17:00までです。&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:matsue.rubyist.net,2022-10-21:/news/2022/10/22/matsuerb_r0411/</id>
+    <title type="html">「Matsue.rb定例会R04.11」開催のお知らせ</title>
+    <published>2022-10-21T15:00:00Z</published>
+    <updated>2022-10-21T15:00:00Z</updated>
+    <link rel="alternate" href="https://matsue.rubyist.net/news/2022/10/22/matsuerb_r0411/" type="text/html"/>
+    <content type="html">
+&lt;p&gt;　11月26日(土)に&lt;a href="/about_us/#matsuerb"&gt;松江Ruby(Matsue.rb)定例会&lt;/a&gt;を開催します。オンライン開催で、時間は13:00から16:30までです。&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:matsue.rubyist.net,2022-10-21:/news/2022/10/22/matsuerb_r0410/</id>
+    <title type="html">「Matsue.rb定例会R04.10」開催のお知らせ</title>
+    <published>2022-10-21T15:00:00Z</published>
+    <updated>2022-10-21T15:00:00Z</updated>
+    <link rel="alternate" href="https://matsue.rubyist.net/news/2022/10/22/matsuerb_r0410/" type="text/html"/>
+    <content type="html">
+&lt;p&gt;　10月22日(土)に&lt;a href="/about_us/#matsuerb"&gt;松江Ruby(Matsue.rb)定例会&lt;/a&gt;を開催します。オンライン開催で、時間は13:00から16:30までです。&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <id>tag:matsue.rubyist.net,2022-06-24:/news/2022/06/25/matsuerb_r0409/</id>
     <title type="html">「Matsue.rb定例会R04.09」開催のお知らせ</title>
@@ -27,36 +57,6 @@
     <link rel="alternate" href="https://matsue.rubyist.net/news/2022/06/25/matsuerb_r0408/" type="text/html"/>
     <content type="html">
 &lt;p&gt;　8月27日(土)に&lt;a href="/about_us/#matsuerb"&gt;松江Ruby(Matsue.rb)定例会&lt;/a&gt;を開催します。オンライン開催で、時間は13:00から16:30までです。&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:matsue.rubyist.net,2022-06-24:/news/2022/06/25/matsuerb_r0407/</id>
-    <title type="html">「Matsue.rb定例会R04.07」開催のお知らせ</title>
-    <published>2022-06-24T15:00:00Z</published>
-    <updated>2022-06-24T15:00:00Z</updated>
-    <link rel="alternate" href="https://matsue.rubyist.net/news/2022/06/25/matsuerb_r0407/" type="text/html"/>
-    <content type="html">
-&lt;p&gt;　7月23日(土)に&lt;a href="/about_us/#matsuerb"&gt;松江Ruby(Matsue.rb)定例会&lt;/a&gt;を開催します。オンライン開催で、時間は13:00から16:30までです。&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:matsue.rubyist.net,2022-03-25:/news/2022/03/26/matsuerb_r0406/</id>
-    <title type="html">「Matsue.rb定例会R04.06」開催のお知らせ</title>
-    <published>2022-03-25T15:00:00Z</published>
-    <updated>2022-03-25T15:00:00Z</updated>
-    <link rel="alternate" href="https://matsue.rubyist.net/news/2022/03/26/matsuerb_r0406/" type="text/html"/>
-    <content type="html">
-&lt;p&gt;　6月25日(土)に&lt;a href="/about_us/#matsuerb"&gt;松江Ruby(Matsue.rb)定例会&lt;/a&gt;を開催します。オンライン開催で、時間は13:00から16:30までです。&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:matsue.rubyist.net,2022-03-25:/news/2022/03/26/matsuerb_r0405/</id>
-    <title type="html">「Matsue.rb定例会R04.05」開催のお知らせ</title>
-    <published>2022-03-25T15:00:00Z</published>
-    <updated>2022-03-25T15:00:00Z</updated>
-    <link rel="alternate" href="https://matsue.rubyist.net/news/2022/03/26/matsuerb_r0405/" type="text/html"/>
-    <content type="html">
-&lt;p&gt;　5月28日(土)に&lt;a href="/about_us/#matsuerb"&gt;松江Ruby(Matsue.rb)定例会&lt;/a&gt;を開催します。オンライン開催で、時間は13:00から16:30までです。&lt;/p&gt;
 </content>
   </entry>
 </feed>
