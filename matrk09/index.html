@@ -12,45 +12,39 @@
     <meta name="generator" content="nanoc 4.12.12" />
     <link rel="stylesheet" href="/matrk_common/css/bootstrap.css">
     <link rel="stylesheet" href="/matrk_common/css/carousel.css">
+    <link rel="stylesheet" href="/matrk_common/css/time_table.css">
+    <link rel="stylesheet" href="/matrk_common/css/button.css">
+    <link rel="stylesheet" href="/matrk_common/css/speaker.css">
+    <link rel="stylesheet" href="/matrk_common/css/sponser.css">
+    <link rel="stylesheet" href="/matrk_common/css/footer.css">
     <link rel="stylesheet" href="/matrk09/css/application.css">
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
     <script type="text/javascript" src="/matrk_common/js/application.js"></script>
   </head>
   <body>
-    <header class="bs-docs-nav" role="banner">
-  <nav class="navbar navbar-fixed-top navbar-inverse" role="navigation">
-    <div class="container">
-      <div class="navbar-header">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <h1><img src="img/matrb09Logo.png" alt="MATSUE Ruby Kaigi 09" /></h1>
-      </div>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/matrk09">MATSUE RUBY KAIGI 09</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item"><a class="nav-link" href="#guidance">開催概要</a></li>
+        <li class="nav-item"><a class="nav-link" href="#information">新着・お知らせ</a></li>
+        <li class="nav-item"><a class="nav-link" href="#program">プログラム</a></li>
+        <li class="nav-item"><a class="nav-link" href="#register">参加登録の案内</a></li>
+        <li class="nav-item"><a class="nav-link" href="#sponser">スポンサー</a></li>
+        <li class="nav-item"><a class="nav-link" href="#support">お問い合わせ先</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
 
-      <div class="collapse navbar-collapse navbar-ex1-collapse">
-        <ul class="nav navbar-nav menu">
-          <li><a href="#">ホーム</a></li>
-          <li><a href="#guidance">開催概要</a></li>
-          <li><a href="#information">新着・お知らせ</a></li>
-          <li><a href="#program">プログラム</a></li>
-          <li><a href="#register">参加登録の案内</a></li>
-          <li><a href="#sponser">スポンサー</a></li>
-          <li><a href="#support">お問い合わせ先</a></li>
-        </ul>
-      </div><!-- /.navbar-collapse -->
-
-    </div><!-- /.container -->
-  </nav>
-</header>
-
-<div class="top-image"></div>
-
-<div class="container mark"></div>
-
-<p><br /><br /></p>
+<div class="px-4 py-5 my-5 text-center">
+  <img class="d-block mx-auto mb-4" src="/matrk_common/img/ruby.png" width="60" height="60" />
+  <h1 class="display-5 fw-bold">MATSUE RUBY KAIGI 09</h1>
+</div>
 
 <div id="guidance" class="container">
   <div class="row">
@@ -154,31 +148,29 @@
   </blockquote>
   <h3 class="font-Fenix" id="message">講演者ご紹介</h3>
   <div class="row">
-    <div class="keynote-person">
-      <div class="col-xs4 col-md-4">
-        <span class="person matz"></span>
-        <div class="profile">
-          <span class="name">まつもとゆきひろ 氏</span>
-          <span class="social">
-            <a href="https://twitter.com/yukihiro_matz" class="twitter"></a>
-            <a href="https://github.com/matz" class="github"></a>
-          </span>
-          <p class="description">
-            我らがRubyの生みの親。小泉八雲氏と肩を並べて松江市名誉市民でもあり、Rubyを通して地方から世界のソフトウェア業界に多大な影響を与えています。今回も松江ならでは、基調講演でお話をしていただきます。
-          </p>
-        </div>
+    <div class="col-xs4 col-md-4 keynote-person">
+      <span class="person matz"></span>
+      <div class="profile">
+        <span class="name">まつもとゆきひろ 氏</span>
+        <span class="social">
+          <a href="https://twitter.com/yukihiro_matz" class="twitter"></a>
+          <a href="https://github.com/matz" class="github"></a>
+        </span>
+        <p class="description">
+          我らがRubyの生みの親。小泉八雲氏と肩を並べて松江市名誉市民でもあり、Rubyを通して地方から世界のソフトウェア業界に多大な影響を与えています。今回も松江ならでは、基調講演でお話をしていただきます。
+        </p>
       </div>
-      <div class="col-xs4 col-md-4">
-        <span class="person inoue"></span>
-        <div class="profile">
-          <span class="name">井上浩 氏</span>
-          <span class="social">
-            <a href="https://twitter.com/nacl" class="twitter"></a>
-          </span>
-          <p class="description">
-            株式会社ネットワーク応用通信研究所(NaCl) 代表取締役。会社設立当初から自由に使えるオープンソースソフトウェアを利用した事業を展開、座右の銘は「禍福は糾える縄のごとし」、又は「人生最後はチャラ」 ゲスト講演でお話いただきます。
-          </p>
-        </div>
+    </div>
+    <div class="col-xs4 col-md-4 keynote-person">
+      <span class="person inoue"></span>
+      <div class="profile">
+        <span class="name">井上浩 氏</span>
+        <span class="social">
+          <a href="https://twitter.com/nacl" class="twitter"></a>
+        </span>
+        <p class="description">
+          株式会社ネットワーク応用通信研究所(NaCl) 代表取締役。会社設立当初から自由に使えるオープンソースソフトウェアを利用した事業を展開、座右の銘は「禍福は糾える縄のごとし」、又は「人生最後はチャラ」 ゲスト講演でお話いただきます。
+        </p>
       </div>
     </div>
   </div>
@@ -222,228 +214,90 @@
 
   <div class="row">
     <div class="col-xs-12 col-md-12">
-      <h3>タイムテーブル</h3>
-      <br />
-      <h4>午前の部</h4>
-      <table class="timetable-table">
-        <thead>
-          <th class="timetable-date col-xs-3">
-            <span class="inner">時間</span>
-          </th>
-          <th class="timetable-date col-xs-5">
-            <span class="inner">プログラム</span>
-          </th>
-          <th class="timetable-date col-xs-4">
-            <span class="inner">発表者</span>
-          </th>
-        </thead>
-        <tbody>
-          <tr>
-            <td class="timetable-time">
-              <span>11:00 〜 11:05</span>
-            </td>
-            <td class="timetable-time">
-              <span>オープニング</span>
-            </td>
-            <td class="timetable-time">
-              <span></span>
-            </td>
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span>11:10 〜 11:55</span>
-            </td>
-            <td class="timetable-time">
-              <span>ゲスト講演<br />「島根でRubyが使えるようになったキッカケ 〜 10年前松江で何が起きていたか 〜」</span>
-            </td>
-            <td class="timetable-time">
-              <span>株式会社ネットワーク応用通信研究所（NaCl）<br />井上浩 氏</span>
-            </td>
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span>12:00 〜 13:30</span>
-            </td>
-            <td class="timetable-time">
-              <span>昼食休憩</span>
-            </td>
-            <td class="timetable-time">
-              <span></span>
-            </td>
-          </tr>
-        </tbody>
-      </table>
+      <div class="card">
+        <div class="card-body">
+          <h3 class="card-title">タイムテーブル</h3>
+          <h4>午前の部</h4>
+      <div class="timetable">
+        <ul class="timeline">
+            <li class="event" data-date="11:00 〜 11:05">
+              <h3>オープニング</h3>
+              <p></p>
+            </li>
+            <li class="event" data-date="11:10 〜 11:55">
+              <h3>ゲスト講演<br />「島根でRubyが使えるようになったキッカケ 〜 10年前松江で何が起きていたか 〜」</h3>
+              <p>株式会社ネットワーク応用通信研究所（NaCl）<br />井上浩 氏</p>
+            </li>
+            <li class="event" data-date="12:00 〜 13:30">
+              <h3>昼食休憩</h3>
+              <p></p>
+            </li>
+        </ul>
+      </div>
 
-      <h4>午後の部</h4>
-      <table class="timetable-table">
-        <thead>
-          <th class="timetable-date col-xs-3">
-            <span class="inner">時間</span>
-          </th>
-          <th class="timetable-date col-xs-5">
-            <span class="inner">プログラム</span>
-          </th>
-          <th class="timetable-date col-xs-4">
-            <span class="inner">発表者</span>
-          </th>
-        </thead>
-        <tbody>
-          <tr>
-            <td class="timetable-time">
-              <span>13:30 〜 14:20</span>
-            </td>
-            <td class="timetable-time">
-              <span>基調講演</span>
-            </td>
-            <td class="timetable-time">
-              <span>まつもとゆきひろ 氏</span>
-            </td>
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span>14:20 〜 14:35</span>
-            </td>
-            <td class="timetable-time">
-              <span>休憩・写真撮影</span>
-            </td>
-            <td class="timetable-time">
-              <span> - </span>
-            </td>
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span>14:35 〜 14:50</span>
-            </td>
-            <td class="timetable-time">
-              <span>session 1<br />「<a href="https://www.slideshare.net/shohashimoto/redmine1-103850531">Redmineの更新を楽にする？1つの方法</a>」</span>
-            </td>
-            <td class="timetable-time">
-              <span>株式会社ネットワーク応用通信研究所（NaCl）<br />橋本将 氏</span>
-            </td>
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span>14:50 〜 15:05</span>
-            </td>
-            <td class="timetable-time">
-              <span>session 2<br />「<a href="https://speakerdeck.com/gamelinks007/pu-tomastodon">僕とMastodon</a>」</span>
-            </td>
-            <td class="timetable-time">
-              <span>ゲームリンクス<br />平岡瞬 氏</span>
-            </td>
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span>15:15 〜 15:40</span>
-            </td>
-            <td class="timetable-time">
-              <span>LTセッション</span>
-            </td>
-            <td class="timetable-time">
-              <span></span>
-            </td>
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span></span>
-            </td>
-            <td class="timetable-time">
-              <span>松江ではたらく</span>
-            </td>
-            <td class="timetable-time">
-              <span>株式会社Misoca<br />加藤龍 氏</span>
-            </td>
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span></span>
-            </td>
-            <td class="timetable-time">
-              <span>僕たちとRuby</span>
-            </td>
-            <td class="timetable-time">
-              <span>株式会社モンスター・ラボ<br />ハー・タイン 氏 &amp; ポール 氏</span>
-            </td>
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span></span>
-            </td>
-            <td class="timetable-time">
-              <span>わたしとスプラウト.rb</span>
-            </td>
-            <td class="timetable-time">
-              <span>株式会社日本ハイソフト<br />竹田喜世子 氏</span>
-            </td>
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span></span>
-            </td>
-            <td class="timetable-time">
-              <span><a href="https://www.slideshare.net/ShugoMaeda/ruby-103693472">Rubyでつくるスレッド</a></span>
-            </td>
-            <td class="timetable-time">
-              <span>株式会社ネットワーク応用通信研究所（NaCl）<br />前田修吾 氏</span>
-            </td>
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span>15:45 〜 16:00</span>
-            </td>
-            <td class="timetable-time">
-              <span>session 3<br />「若手エンジニア × Rubyプロジェクト = ？？？」</span>
-            </td>
-            <td class="timetable-time">
-              <span>ファーエンドテクノロジー株式会社<br />石川瑞希 氏</span>
-            </td>
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span>16:00 〜 16:15</span>
-            </td>
-            <td class="timetable-time">
-              <span>session 4<br />「<a href="https://speakerdeck.com/hidakatsuya/how-to-maintain-compatibility">後方互換の保ち方</a>」</span>
-            </td>
-            <td class="timetable-time">
-              <span>株式会社Misoca<br />日高克也 氏</span>
-            </td>
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span>16:15 〜 16:30</span>
-            </td>
-            <td class="timetable-time">
-              <span>session 5<br />「Yet Another Ruby Application Framework "Alone"」</span>
-            </td>
-            <td class="timetable-time">
-              <span>ITOC しまねソフト研究開発センター<br />東裕人 氏</span>
-            </td>
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span>16:35 〜 17:20</span>
-            </td>
-            <td class="timetable-time">
-              <span>Ruby Quiz</span>
-            </td>
-            <td class="timetable-time">
-              <span>-</span>
-            </td>
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span>17:20 〜 17:30</span>
-            </td>
-            <td class="timetable-time">
-              <span>クロージング</span>
-            </td>
-            <td class="timetable-time">
-              <span>-</span>
-            </td>
-          </tr>
-        </tbody>
-      </table>
+          <h4>午後の部</h4>
+      <div class="timetable">
+        <ul class="timeline">
+            <li class="event" data-date="13:30 〜 14:20">
+              <h3>基調講演</h3>
+              <p>まつもとゆきひろ 氏</p>
+            </li>
+            <li class="event" data-date="14:20 〜 14:35">
+              <h3>休憩・写真撮影</h3>
+              <p> - </p>
+            </li>
+            <li class="event" data-date="14:35 〜 14:50">
+              <h3>session 1<br />「<a href="https://www.slideshare.net/shohashimoto/redmine1-103850531">Redmineの更新を楽にする？1つの方法</a>」</h3>
+              <p>株式会社ネットワーク応用通信研究所（NaCl）<br />橋本将 氏</p>
+            </li>
+            <li class="event" data-date="14:50 〜 15:05">
+              <h3>session 2<br />「<a href="https://speakerdeck.com/gamelinks007/pu-tomastodon">僕とMastodon</a>」</h3>
+              <p>ゲームリンクス<br />平岡瞬 氏</p>
+            </li>
+            <li class="event" data-date="15:15 〜 15:40">
+              <h3>LTセッション</h3>
+              <p></p>
+            </li>
+            <li class="event" data-date="">
+              <h3>松江ではたらく</h3>
+              <p>株式会社Misoca<br />加藤龍 氏</p>
+            </li>
+            <li class="event" data-date="">
+              <h3>僕たちとRuby</h3>
+              <p>株式会社モンスター・ラボ<br />ハー・タイン 氏 &amp; ポール 氏</p>
+            </li>
+            <li class="event" data-date="">
+              <h3>わたしとスプラウト.rb</h3>
+              <p>株式会社日本ハイソフト<br />竹田喜世子 氏</p>
+            </li>
+            <li class="event" data-date="">
+              <h3><a href="https://www.slideshare.net/ShugoMaeda/ruby-103693472">Rubyでつくるスレッド</a></h3>
+              <p>株式会社ネットワーク応用通信研究所（NaCl）<br />前田修吾 氏</p>
+            </li>
+            <li class="event" data-date="15:45 〜 16:00">
+              <h3>session 3<br />「若手エンジニア × Rubyプロジェクト = ？？？」</h3>
+              <p>ファーエンドテクノロジー株式会社<br />石川瑞希 氏</p>
+            </li>
+            <li class="event" data-date="16:00 〜 16:15">
+              <h3>session 4<br />「<a href="https://speakerdeck.com/hidakatsuya/how-to-maintain-compatibility">後方互換の保ち方</a>」</h3>
+              <p>株式会社Misoca<br />日高克也 氏</p>
+            </li>
+            <li class="event" data-date="16:15 〜 16:30">
+              <h3>session 5<br />「Yet Another Ruby Application Framework "Alone"」</h3>
+              <p>ITOC しまねソフト研究開発センター<br />東裕人 氏</p>
+            </li>
+            <li class="event" data-date="16:35 〜 17:20">
+              <h3>Ruby Quiz</h3>
+              <p>-</p>
+            </li>
+            <li class="event" data-date="17:20 〜 17:30">
+              <h3>クロージング</h3>
+              <p>-</p>
+            </li>
+        </ul>
+      </div>
+        </div>
+      </div>
     </div>
   </div>
 </div>

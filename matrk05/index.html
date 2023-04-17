@@ -12,43 +12,38 @@
     <meta name="generator" content="nanoc 4.12.12" />
     <link rel="stylesheet" href="/matrk_common/css/bootstrap.css">
     <link rel="stylesheet" href="/matrk_common/css/carousel.css">
+    <link rel="stylesheet" href="/matrk_common/css/time_table.css">
+    <link rel="stylesheet" href="/matrk_common/css/button.css">
+    <link rel="stylesheet" href="/matrk_common/css/speaker.css">
+    <link rel="stylesheet" href="/matrk_common/css/sponser.css">
+    <link rel="stylesheet" href="/matrk_common/css/footer.css">
     <link rel="stylesheet" href="/matrk05/css/application.css">
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
     <script type="text/javascript" src="/matrk_common/js/application.js"></script>
   </head>
   <body>
-    <header class="bs-docs-nav" role="banner">
-  <nav class="navbar navbar-fixed-top navbar-inverse" role="navigation">
-    <div class="container">
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-        <h1><img src="img/matrb05Logo.png" alt="MATSUE Ruby Kaigi 05" /></h1>
-      </div>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/matrk05">MATSUE RUBY KAIGI 05</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item"><a class="nav-link" href="#guidance">開催概要</a></li>
+        <li class="nav-item"><a class="nav-link" href="#information">新着・お知らせ</a></li>
+        <li class="nav-item"><a class="nav-link" href="#program">プログラム</a></li>
+        <li class="nav-item"><a class="nav-link" href="#register">参加登録の案内</a></li>
+        <li class="nav-item"><a class="nav-link" href="#support">お問い合わせ先</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
 
-      <div class="collapse navbar-collapse navbar-ex1-collapse">
-        <ul class="nav navbar-nav menu">
-          <li><a href="#">ホーム</a></li>
-          <li><a href="#guidance">開催概要</a></li>
-          <li><a href="#information">新着・お知らせ</a></li>
-          <li><a href="#program">プログラム</a></li>
-          <li><a href="#register">参加登録の案内</a></li>
-          <li><a href="#support">お問い合わせ先</a></li>
-        </ul>
-      </div><!-- /.navbar-collapse -->
-    </div><!-- /.container -->
-  </nav>
-</header>
-
-<div class="top-image"></div>
-
-<div class="container mark"></div>
-
-<p><br /></p>
+<div class="px-4 py-5 my-5 text-center">
+  <img class="d-block mx-auto mb-4" src="/matrk_common/img/ruby.png" width="60" height="60" />
+  <h1 class="display-5 fw-bold">MATSUE RUBY KAIGI 05</h1>
+</div>
 
 <div id="guidance" class="container">
   <div class="row">
@@ -155,309 +150,132 @@
   </div>
 </div>
 
+<p><br /><br /></p>
+
 <div id="program" class="container">
   <div class="row">
     <div class="col-xs-12 col-md-12">
       <blockquote>
         <h2 class="font-Fenix" id="message">プログラム</h2>
       </blockquote>
-      <h3 class="font-Fenix" id="message">・午前の部</h3>
-      <p class="main-text font-Fenix">松江Ruby会議の開会前に交流を兼ねてLT大会を行います。</p>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-xs-12 col-md-12">
+      <div class="card">
+        <div class="card-body">
+          <h3 class="card-title">タイムテーブル</h3>
+          <h4 class="font-Fenix" id="message">午前の部</h4>
+          <p class="main-text font-Fenix">松江Ruby会議の開会前に交流を兼ねてLT大会を行います。</p>
+          <br />
+      <div class="timetable">
+        <ul class="timeline">
+            <li class="event" data-date="11:00">
+              <h3>開場</h3>
+              <p></p>
+            </li>
+            <li class="event" data-date="11:30 〜 13:00">
+              <h3>LT大会、昼食</h3>
+              <p></p>
+            </li>
+            <li class="event" data-date="">
+              <h3>「とくちゃんと Ruby Association」</h3>
+              <p>徳永翔二 氏</p>
+            </li>
+            <li class="event" data-date="">
+              <h3>「正しいモチベーションの上げ方」</h3>
+              <p>井上裕之 氏（<a href="https://github.com/inoh">@inoh</a>）</p>
+            </li>
+            <li class="event" data-date="">
+              <h3>「Rubyと出会ってからの6年」</h3>
+              <p>高木丈智 氏（<a href="https://github.com/takenory">@takenory</a>）</p>
+            </li>
+            <li class="event" data-date="">
+              <h3>「拡張ライブラリで作成するruby-assimp」</h3>
+              <p>佐田明弘 氏（<a href="https://github.com/sada">@sada</a>）</p>
+            </li>
+            <li class="event" data-date="">
+              <h3>「基本設計」</h3>
+              <p>小谷真一 氏（<a href="https://github.com/sn1128">@sn1128</a>）</p>
+            </li>
+            <li class="event" data-date="">
+              <h3>「Chef使うなら知っておくと便利なn個のCookbook」</h3>
+              <p>西田雄也 氏（<a href="https://twitter.com/nishidayuya">@nishidayuya</a>）</p>
+            </li>
+        </ul>
+      </div>
       <br />
-      <h4 class="font-Fenix" id="message">タイムテーブル</h4>
-      <table class="timetable-table">
-        <thead>
-          <th class="timetable-date col-xs-3">
-            <span class="inner">時間</span>
-          </th>
-          <th class="timetable-date col-xs-5">
-            <span class="inner">プログラム</span>
-          </th>
-          <th class="timetable-date col-xs-4">
-            <span class="inner">発表者</span>
-          </th>
-        </thead>
-        <tbody>
-          <tr>
-            <td class="timetable-time">
-              <span>11:00</span>
-            </td>
-            <td class="timetable-time">
-              <span>開場</span>
-            </td>
-            <td class="timetable-time">
-              <span></span>
-            </td>
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span>11:30 〜 13:00</span>
-            </td>
-            <td class="timetable-time">
-              <span>LT大会、昼食</span>
-            </td>
-            <td class="timetable-time">
-              <span></span>
-            </td>
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span></span>
-            </td>
-            <td class="timetable-time">
-              <span>「とくちゃんと Ruby Association」</span>
-            </td>
-            <td class="timetable-time">
-              <span>徳永翔二 氏</span>
-            </td>
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span></span>
-            </td>
-            <td class="timetable-time">
-              <span>「正しいモチベーションの上げ方」</span>
-            </td>
-            <td class="timetable-time">
-              <span>井上裕之 氏（<a href="https://github.com/inoh">@inoh</a>）</span>
-            </td>
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span></span>
-            </td>
-            <td class="timetable-time">
-              <span>「Rubyと出会ってからの6年」</span>
-            </td>
-            <td class="timetable-time">
-              <span>高木丈智 氏（<a href="https://github.com/takenory">@takenory</a>）</span>
-            </td>
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span></span>
-            </td>
-            <td class="timetable-time">
-              <span>「拡張ライブラリで作成するruby-assimp」</span>
-            </td>
-            <td class="timetable-time">
-              <span>佐田明弘 氏（<a href="https://github.com/sada">@sada</a>）</span>
-            </td>
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span></span>
-            </td>
-            <td class="timetable-time">
-              <span>「基本設計」</span>
-            </td>
-            <td class="timetable-time">
-              <span>小谷真一 氏（<a href="https://github.com/sn1128">@sn1128</a>）</span>
-            </td>
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span></span>
-            </td>
-            <td class="timetable-time">
-              <span>「Chef使うなら知っておくと便利なn個のCookbook」</span>
-            </td>
-            <td class="timetable-time">
-              <span>西田雄也 氏（<a href="https://twitter.com/nishidayuya">@nishidayuya</a>）</span>
-            </td>
-          </tr>
-        </tbody>
-      </table>
-      <br />
-      <h3 class="font-Fenix" id="message">・午後の部</h3>
+      <h4 class="font-Fenix" id="message">午後の部</h4>
       <p class="main-text font-Fenix">松江Ruby会議の午後の部は<strong>まつもとゆきひろ氏</strong>による基調講演をはじめ、<strong>DXRuby開発者のmirichi氏</strong>のゲスト講演もあります。
       </p>
       <p class="main-text font-Fenix">ライブコーディングではMatsue.rbのメンバーによる、日頃の活動の成果の発表に加え、Rubyコミッターも参加します！ </p>
       <br />
+      <div class="timetable">
+        <ul class="timeline">
+            <li class="event" data-date="13:00 〜">
+              <h3>開場・受付開始</h3>
+              <p></p>
+            </li>
+            <li class="event" data-date="13:25 〜 13:30">
+              <h3>開会あいさつ</h3>
+              <p>主催者</p>
+            </li>
+            <li class="event" data-date="13:30 〜 14:00">
+              <h3>基調講演</h3>
+              <p>まつもとゆきひろ 氏</p>
+            </li>
+            <li class="event" data-date="14:10 〜 14:40">
+              <h3>ゲスト講演「DXRubyのご紹介」</h3>
+              <p><a href="http://twitter.com/mirichi">@mirichi</a> 氏<br />（DXRuby開発者）</p>
+            </li>
+            <li class="event" data-date="14:50 〜 15:20">
+              <h3>「ちょっとるりまでも更新してみようか」（ライブコー...ドキュメンティング）<br />普段Matsue.rb定例会で@sho-hがやっている事を紹介します。コーディングではないのはご愛嬌？</h3>
+              <p>橋本将 氏<br />（<a href="https://github.com/sho-h">@sho-h</a>）</p>
+            </li>
+            <li class="event" data-date="15:30 〜 16:00">
+              <h3>「RubyMotionいつやるの？」（ライブコーディング）<br /> RubyMotionを使ったiOSアプリ開発を実演します！</h3>
+              <p>木村友哉 氏<br />（<a href="https://github.com/tomo-k">@tomo-k</a>）</p>
+            </li>
+            <li class="event" data-date="16:10 〜 16:40">
+              <h3>「Module#prependとRefinementsで遊ぶ」（ライブコーディング）</h3>
+              <p>前田修吾 氏<br />（<a href="https://github.com/shugo">@shugo</a>）</p>
+            </li>
+            <li class="event" data-date="16:50 〜 17:20">
+              <h3>「takaokouji とrockzeroのぶつかり稽古」（ライブコーディング）<br />takaokouji氏が出題したtestを満たすコードをrockzero君が回答していきます！</h3>
+              <p>高尾宏治 氏<br />（<a href="https://github.com/takaokouji">@takaokouji</a>）<br />岩石嶺 君<br />（<a href="https://github.com/rockzero">@rockzero</a>）</p>
+            </li>
+            <li class="event" data-date="17:30 〜">
+              <h3>閉会挨拶</h3>
+              <p>主催者</p>
+            </li>
+        </ul>
+      </div>
       <br />
-      <h4 class="font-Fenix" id="message">タイムテーブル</h4>
-      <table class="timetable-table">
-        <thead>
-          <th class="timetable-date col-xs-3">
-            <span class="inner">時間</span>
-          </th>
-          <th class="timetable-date col-xs-5">
-            <span class="inner">プログラム</span>
-          </th>
-          <th class="timetable-date col-xs-4">
-            <span class="inner">発表者</span>
-          </th>
-        </thead>
-        <tbody>
-          <tr>
-            <td class="timetable-time">
-              <span>13:00 〜</span>
-            </td>
-            <td class="timetable-time">
-              <span>開場・受付開始</span>
-            </td>
-            <td class="timetable-time">
-              <span></span>
-            </td>
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span>13:25 〜 13:30</span>
-            </td>
-            <td class="timetable-time">
-              <span>開会あいさつ</span>
-            </td>
-            <td class="timetable-time">
-              <span>主催者</span>
-            </td>
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span>13:30 〜 14:00</span>
-            </td>
-            <td class="timetable-time">
-              <span>基調講演</span>
-            </td>
-            <td class="timetable-time">
-              <span>まつもとゆきひろ 氏</span>
-            </td>
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span>14:10 〜 14:40</span>
-            </td>
-            <td class="timetable-time">
-              <span>ゲスト講演「DXRubyのご紹介」</span>
-            </td>
-            <td class="timetable-time">
-              <span><a href="http://twitter.com/mirichi">@mirichi</a> 氏<br />（DXRuby開発者）</span>
-            </td>
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span>14:50 〜 15:20</span>
-            </td>
-            <td class="timetable-time">
-              <span>「ちょっとるりまでも更新してみようか」（ライブコー...ドキュメンティング）<br />普段Matsue.rb定例会で@sho-hがやっている事を紹介します。コーディングではないのはご愛嬌？</span>
-            </td>
-            <td class="timetable-time">
-              <span>橋本将 氏<br />（<a href="https://github.com/sho-h">@sho-h</a>）</span>
-            </td>
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span>15:30 〜 16:00</span>
-            </td>
-            <td class="timetable-time">
-              <span>「RubyMotionいつやるの？」（ライブコーディング）<br /> RubyMotionを使ったiOSアプリ開発を実演します！</span>
-            </td>
-            <td class="timetable-time">
-              <span>木村友哉 氏<br />（<a href="https://github.com/tomo-k">@tomo-k</a>）</span>
-            </td>
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span>16:10 〜 16:40</span>
-            </td>
-            <td class="timetable-time">
-              <span>「Module#prependとRefinementsで遊ぶ」（ライブコーディング）</span>
-            </td>
-            <td class="timetable-time">
-              <span>前田修吾 氏<br />（<a href="https://github.com/shugo">@shugo</a>）</span>
-            </td>
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span>16:50 〜 17:20</span>
-            </td>
-            <td class="timetable-time">
-              <span>「takaokouji とrockzeroのぶつかり稽古」（ライブコーディング）<br />takaokouji氏が出題したtestを満たすコードをrockzero君が回答していきます！</span>
-            </td>
-            <td class="timetable-time">
-              <span>高尾宏治 氏<br />（<a href="https://github.com/takaokouji">@takaokouji</a>）<br />岩石嶺 君<br />（<a href="https://github.com/rockzero">@rockzero</a>）</span>
-            </td>
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span>17:30 〜</span>
-            </td>
-            <td class="timetable-time">
-              <span>閉会挨拶</span>
-            </td>
-            <td class="timetable-time">
-              <span>主催者</span>
-            </td>
-          </tr>
-        </tbody>
-      </table>
-      <br />
-      <h3 class="font-Fenix" id="message">・夕方の部、懇親会 </h3>
-      <br />
-      <h4 class="font-Fenix" id="message">タイムテーブル</h4>
-      <table class="timetable-table">
-        <thead>
-          <th class="timetable-date">
-            <span class="inner">時間</span>
-          </th>
-          <th class="timetable-date">
-            <span class="inner">プログラム</span>
-          </th>
-          <th class="timetable-date">
-            <span class="inner">会場</span>
-          </th>
-          <th class="timetable-date">
-            <span class="inner">備考</span>
-          </th>
-        </thead>
-        <tbody>
-          <tr>
-            <td class="timetable-time">
-              <span>18:00 〜 19:30</span>
-            </td>
-            <td class="timetable-time">
-              <span>Ruby Jr発表会</span>
-            </td>
-            <td class="timetable-time">
-              <span>オープンソースラボ</span>
-            </td>
-            <td class="timetable-time">
-            <span>中高生による発表会です。Rubyを使って作ったゲームの発表をします。</span>
-            </td>
-          &lt;/th&gt;
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span></span>
-            </td>
-            <td class="timetable-time">
-              <span>ライブコーディング大喜利</span>
-            </td>
-            <td class="timetable-time">
-              <span>松江テルサ</span>
-            </td>
-            <td class="timetable-time">
-              <span>※RubyJrと平行開催となるため開催場所が<strong><a href="http://www.sanbg.com/terrsa/">テルサ研修室２</a></strong>となります。</span>
-            </td>
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span>20:00 〜</span>
-            </td>
-            <td class="timetable-time">
-              <span>懇親会</span>
-            </td>
-            <td class="timetable-time">
-              <span>彩鮮酒楽　やぁ</span>
-            </td>
-            <td class="timetable-time">
-              <span></span>
-            </td>
-          </tr>
-        </tbody>
-      </table>
+      <h3 class="font-Fenix" id="message">夕方の部、懇親会 </h3>
+      <div class="timetable">
+        <ul class="timeline">
+            <li class="event" data-date="18:00 〜 19:30">
+              <h3>Ruby Jr発表会</h3>
+              <p>オープンソースラボ<br />中高生による発表会です。Rubyを使って作ったゲームの発表をします。</p>
+            </li>
+            <li class="event" data-date="">
+              <h3>ライブコーディング大喜利</h3>
+              <p>松江テルサ<br />※RubyJrと平行開催となるため開催場所が<strong><a href="http://www.sanbg.com/terrsa/">テルサ研修室２</a></strong>となります。</p>
+            </li>
+            <li class="event" data-date="20:00 ～">
+              <h3>懇親会</h3>
+              <p>彩鮮酒楽　やぁ</p>
+            </li>
+        </ul>
+      </div>
+        </div>
+      </div>
     </div>
   </div>
 </div>
+
+<p><br /><br /></p>
 
 <div id="register" class="container">
   <div class="row">

@@ -12,44 +12,39 @@
     <meta name="generator" content="nanoc 4.12.12" />
     <link rel="stylesheet" href="/matrk_common/css/bootstrap.css">
     <link rel="stylesheet" href="/matrk_common/css/carousel.css">
+    <link rel="stylesheet" href="/matrk_common/css/time_table.css">
+    <link rel="stylesheet" href="/matrk_common/css/button.css">
+    <link rel="stylesheet" href="/matrk_common/css/speaker.css">
+    <link rel="stylesheet" href="/matrk_common/css/sponser.css">
+    <link rel="stylesheet" href="/matrk_common/css/footer.css">
     <link rel="stylesheet" href="/matrk06/css/application.css">
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
     <script type="text/javascript" src="/matrk_common/js/application.js"></script>
   </head>
   <body>
-    <header class="bs-docs-nav" role="banner">
-  <nav class="navbar navbar-fixed-top navbar-inverse" role="navigation">
-    <div class="container">
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-        <h1><img src="img/matrb06Logo.png" alt="MATSUE Ruby Kaigi 06" /></h1>
-      </div>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/matrk06">MATSUE RUBY KAIGI 06</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item"><a class="nav-link" href="#guidance">開催概要</a></li>
+        <li class="nav-item"><a class="nav-link" href="#information">新着・お知らせ</a></li>
+        <li class="nav-item"><a class="nav-link" href="#program">プログラム</a></li>
+        <li class="nav-item"><a class="nav-link" href="#register">参加登録の案内</a></li>
+        <li class="nav-item"><a class="nav-link" href="#sponser">スポンサー</a></li>
+        <li class="nav-item"><a class="nav-link" href="#support">お問い合わせ先</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
 
-      <div class="collapse navbar-collapse navbar-ex1-collapse">
-        <ul class="nav navbar-nav menu">
-          <li><a href="#">ホーム</a></li>
-          <li><a href="#guidance">開催概要</a></li>
-          <li><a href="#information">新着・お知らせ</a></li>
-          <li><a href="#program">プログラム</a></li>
-          <li><a href="#register">参加登録の案内</a></li>
-          <li><a href="#sponser">スポンサー</a></li>
-          <li><a href="#support">お問い合わせ先</a></li>
-        </ul>
-      </div><!-- /.navbar-collapse -->
-    </div><!-- /.container -->
-  </nav>
-</header>
-
-<div class="top-image"></div>
-
-<div class="container mark"></div>
-
-<p><br /><br /></p>
+<div class="px-4 py-5 my-5 text-center">
+  <img class="d-block mx-auto mb-4" src="/matrk_common/img/ruby.png" width="60" height="60" />
+  <h1 class="display-5 fw-bold">MATSUE RUBY KAIGI 06</h1>
+</div>
 
 <div id="guidance" class="container">
   <div class="row">
@@ -155,186 +150,89 @@
   </div>
 </div>
 
+<p><br /><br /></p>
+
 <div id="program" class="container">
   <div class="row">
     <div class="col-xs-12 col-md-12">
       <blockquote>
         <h2 class="font-Fenix" id="message">プログラム</h2>
       </blockquote>
-      <h3 class="font-Fenix" id="message">タイムテーブル</h3>
-      <table class="timetable-table">
-        <thead>
-          <th class="timetable-date col-xs-3">
-            <span class="inner">時間</span>
-          </th>
-          <th class="timetable-date col-xs-5">
-            <span class="inner">プログラム</span>
-          </th>
-          <th class="timetable-date col-xs-4">
-            <span class="inner">発表者</span>
-          </th>
-        </thead>
-        <tbody>
-          <tr>
-            <td class="timetable-time">
-              <span>13:00〜</span>
-            </td>
-            <td class="timetable-time">
-              <span>開場・受付開始</span>
-            </td>
-            <td class="timetable-time">
-              <span></span>
-            </td>
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span>13:25 〜 13:30</span>
-            </td>
-            <td class="timetable-time">
-              <span>開会あいさつ</span>
-            </td>
-            <td class="timetable-time">
-              <span>主催者</span>
-            </td>
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span>13:30 〜 14:10</span>
-            </td>
-            <td class="timetable-time">
-              <span>基調講演</span>
-            </td>
-            <td class="timetable-time">
-              <span>まつもとゆきひろ 氏</span>
-            </td>
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span>14:15 〜 14:25</span>
-            </td>
-            <td class="timetable-time">
-              <span>ショートセッション<br />「フルタイムのRubyコミッターとして働くこと」</span>
-            </td>
-            <td class="timetable-time">
-              <span>笹田耕一 氏</span>
-            </td>
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span>14:30 〜 15:25</span>
-            </td>
-            <td class="timetable-time">
-              <span><a href="/matrk06/ogiri">ライブコーディング大喜利</a></span>
-            </td>
-            <td class="timetable-time">
-              <span></span>
-            </td>
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span></span>
-            </td>
-            <td class="timetable-time">
-              <span>session1</span>
-            </td>
-            <td class="timetable-time">
-              <span>岩石嶺 氏<br />井上裕之 氏<br />進藤元明 氏</span>
-            </td>
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span></span>
-            </td>
-            <td class="timetable-time">
-              <span>session2</span>
-            </td>
-            <td class="timetable-time">
-              <span>前田修吾 氏<br />内部高志 氏<br />田上健太 氏</span>
-            </td>
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span></span>
-            </td>
-            <td class="timetable-time">
-              <span>表彰</span>
-            </td>
-            <td class="timetable-time">
-              <span></span>
-            </td>
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span>15:30 〜 17:30</span>
-            </td>
-            <td class="timetable-time">
-              <span>講演</span>
-            </td>
-            <td class="timetable-time">
-              <span></span>
-            </td>
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span></span>
-            </td>
-            <td class="timetable-time">
-              <span>ゲスト講演<br />「納品のない受託開発」と、エンジニアの働きかたのこれから</span>
-            </td>
-            <td class="timetable-time">
-              <span>株式会社ソニックガーデン<br />倉貫義人 氏</span>
-            </td>
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span></span>
-            </td>
-            <td class="timetable-time">
-              <span>「Matsue.rbのふりかえり - 2014 - （仮）」</span>
-            </td>
-            <td class="timetable-time">
-              <span>tm21 吉岡隆行 氏</span>
-            </td>
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span></span>
-            </td>
-            <td class="timetable-time">
-              <span>パネルディスカッション<br />「来て、見て、感じた、日本、松江、Ruby、NaCl」</span>
-            </td>
-            <td class="timetable-time">
-              <span>正レナト 氏、多根チアゴ 氏、<br />高尾コウジ 氏（司会・進行）</span>
-            </td>
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span></span>
-            </td>
-            <td class="timetable-time">
-              <span>「スモウルビーでライブコーディング」</span>
-            </td>
-            <td class="timetable-time">
-              <span>本多展幸 氏</span>
-            </td>
-          </tr>
-          <tr>
-            <td class="timetable-time">
-              <span>17:35 〜 17:45</span>
-            </td>
-            <td class="timetable-time">
-              <span>クロージング<br />本日のクロージング</span>
-            </td>
-            <td class="timetable-time">
-              <span>主催者</span>
-            </td>
-          </tr>
-        </tbody>
-      </table>
-      <br />
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-xs-12 col-md-12">
+      <div class="card">
+        <div class="card-body">
+          <h3 class="card-title">タイムテーブル</h3>
+      <div class="timetable">
+        <ul class="timeline">
+            <li class="event" data-date="13:00〜">
+              <h3>開場・受付開始</h3>
+              <p></p>
+            </li>
+            <li class="event" data-date="13:25 〜 13:30">
+              <h3>開会あいさつ</h3>
+              <p>主催者</p>
+            </li>
+            <li class="event" data-date="13:30 〜 14:10">
+              <h3>基調講演</h3>
+              <p>まつもとゆきひろ 氏</p>
+            </li>
+            <li class="event" data-date="14:15 〜 14:25">
+              <h3>ショートセッション<br />「フルタイムのRubyコミッターとして働くこと」</h3>
+              <p>笹田耕一 氏</p>
+            </li>
+            <li class="event" data-date="14:30 〜 15:25">
+              <h3><a href="/matrk06/ogiri">ライブコーディング大喜利</a></h3>
+              <p></p>
+            </li>
+            <li class="event" data-date="">
+              <h3>session1</h3>
+              <p>岩石嶺 氏<br />井上裕之 氏<br />進藤元明 氏</p>
+            </li>
+            <li class="event" data-date="">
+              <h3>session2</h3>
+              <p>前田修吾 氏<br />内部高志 氏<br />田上健太 氏</p>
+            </li>
+            <li class="event" data-date="">
+              <h3>表彰</h3>
+              <p></p>
+            </li>
+            <li class="event" data-date="15:30 〜 17:30">
+              <h3>講演</h3>
+              <p></p>
+            </li>
+            <li class="event" data-date="">
+              <h3>ゲスト講演<br />「納品のない受託開発」と、エンジニアの働きかたのこれから</h3>
+              <p>株式会社ソニックガーデン<br />倉貫義人 氏</p>
+            </li>
+            <li class="event" data-date="">
+              <h3>「Matsue.rbのふりかえり - 2014 - （仮）」</h3>
+              <p>tm21 吉岡隆行 氏</p>
+            </li>
+            <li class="event" data-date="">
+              <h3>パネルディスカッション<br />「来て、見て、感じた、日本、松江、Ruby、NaCl」</h3>
+              <p>正レナト 氏、多根チアゴ 氏、<br />高尾コウジ 氏（司会・進行）</p>
+            </li>
+            <li class="event" data-date="">
+              <h3>「スモウルビーでライブコーディング」</h3>
+              <p>本多展幸 氏</p>
+            </li>
+            <li class="event" data-date="17:35 〜 17:45">
+              <h3>クロージング<br />本日のクロージング</h3>
+              <p>主催者</p>
+            </li>
+        </ul>
+      </div>
+        </div>
+      </div>
     </div>
   </div>
 </div>
+
+<p><br /><br /></p>
 
 <div id="register" class="container">
   <div class="row">
@@ -355,51 +253,49 @@
       <blockquote>
         <h2 class="font-Fenix" id="message">スポンサー</h2>
       </blockquote>
-      <div class="col-xs-3 col-md-3" style="text-align: center;">
-        <div>
+    </div>
+
+    <div class="col-xs-12 col-md-12">
+
+      <ul class="sponser_list_items">
+        <li>
           <a href="http://spicelife.jp/" target="_blank">
             <div style="height: 100px;">
-              <img alt="spicelife" src="img/spicelife.png" width="80%" />
+              <img alt="spicelife" src="img/spicelife.png" width="60%" />
             </div>
             <div>株式会社 spice life</div>
           </a>
-        </div>
-      </div>
-      <div class="col-xs-3 col-md-3" style="text-align: center;">
-        <div>
+        </li>
+        <li>
           <a href="http://tmix.jp" target="_blank">
             <div style="height: 100px;">
               <img alt="tmix" src="img/tmix.png" />
             </div>
             <div>オリジナルTシャツをWEBでデザインtmix</div>
           </a>
-        </div>
-      </div>
-      <div class="col-xs-3 col-md-3" style="text-align: center;">
-        <div>
+        </li>
+        <li>
           <a href="http://www.netlab.jp/" target="_blank">
             <div style="height: 100px;">
               <img alt="tmix" src="img/nacl.jpg" style="" />
             </div>
             <div>株式会社ネットワーク応用通信研究所</div>
           </a>
-        </div>
-      </div>
-      <div class="col-xs-3 col-md-3" style="text-align: center;">
-        <div>
+        </li>
+        <li>
           <a href="http://www.farend.co.jp/" target="_blank">
             <div style="height: 100px;">
               <img alt="tmix" src="img/farend.jpg" />
             </div>
             <div>ファーエンドテクノロジー株式会社</div>
           </a>
-        </div>
-      </div>
-      <div class="col-xs-12 col-md-12" style="height: 60px;">
-      </div>
+        </li>
+      </ul>
     </div>
   </div>
 </div>
+
+<p><br /><br /></p>
 
 <div id="support" class="container">
   <div class="row">
