@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://matsue.rubyist.net/</loc>
-    <lastmod>2023-03-30</lastmod>
+    <lastmod>2023-07-11</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/about_us/</loc>
@@ -50,11 +50,11 @@
   </url>
   <url>
     <loc>https://matsue.rubyist.net/matrk09/</loc>
-    <lastmod>2023-04-17</lastmod>
+    <lastmod>2023-07-07</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/matrk10/</loc>
-    <lastmod>2023-06-30</lastmod>
+    <lastmod>2023-07-11</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/members/</loc>
@@ -839,8 +839,20 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://matsue.rubyist.net/news/2023/07/11/matsuerb_r0507/</loc>
+    <lastmod>2023-07-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://matsue.rubyist.net/news/2023/07/11/matsuerb_r0508/</loc>
+    <lastmod>2023-07-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://matsue.rubyist.net/schedule/</loc>
-    <lastmod>2023-03-24</lastmod>
+    <lastmod>2023-07-11</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/sitemap.xml</loc>
