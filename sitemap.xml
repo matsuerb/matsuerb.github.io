@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://matsue.rubyist.net/</loc>
-    <lastmod>2023-07-13</lastmod>
+    <lastmod>2023-07-24</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/about_us/</loc>
@@ -54,7 +54,7 @@
   </url>
   <url>
     <loc>https://matsue.rubyist.net/matrk10/</loc>
-    <lastmod>2023-07-14</lastmod>
+    <lastmod>2023-07-31</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/members/</loc>
@@ -860,7 +860,7 @@
   </url>
   <url>
     <loc>https://matsue.rubyist.net/css/base.css</loc>
-    <lastmod>2022-12-17</lastmod>
+    <lastmod>2023-07-16</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/css/home.css</loc>
@@ -872,7 +872,7 @@
   </url>
   <url>
     <loc>https://matsue.rubyist.net/css/siteindex.css</loc>
-    <lastmod>2023-03-30</lastmod>
+    <lastmod>2023-07-24</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/google5c9f1a2aa704c8ef.html</loc>
@@ -925,6 +925,10 @@
   <url>
     <loc>https://matsue.rubyist.net/matrk_common/css/carousel.css</loc>
     <lastmod>2022-12-17</lastmod>
+  </url>
+  <url>
+    <loc>https://matsue.rubyist.net/matrk_common/css/font.css</loc>
+    <lastmod>2023-07-24</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/matrk_common/css/footer.css</loc>

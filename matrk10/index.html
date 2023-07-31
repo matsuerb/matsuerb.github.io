@@ -9,7 +9,7 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://matsue.rubyist.net/">
     <meta property="og:description" content="松江Ruby会議10 2023年9月16日（土） 松江オープンソースラボにて開催">
-    <meta name="generator" content="nanoc 4.12.12" />
+    <meta name="generator" content="nanoc 4.12.15" />
     <link rel="stylesheet" href="/matrk_common/css/bootstrap.css">
     <link rel="stylesheet" href="/matrk_common/css/carousel.css">
     <link rel="stylesheet" href="/matrk_common/css/time_table.css">
@@ -17,6 +17,7 @@
     <link rel="stylesheet" href="/matrk_common/css/speaker.css">
     <link rel="stylesheet" href="/matrk_common/css/sponser.css">
     <link rel="stylesheet" href="/matrk_common/css/footer.css">
+    <link rel="stylesheet" href="/matrk_common/css/font.css">
     <link rel="stylesheet" href="/matrk10/css/application.css">
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
     <script type="text/javascript" src="/matrk_common/js/application.js"></script>
@@ -30,7 +31,6 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
-        <li class="nav-item"><a class="nav-link" href="#register">LT募集</a></li>
         <li class="nav-item"><a class="nav-link" href="#guidance">開催概要</a></li>
         <li class="nav-item"><a class="nav-link" href="#information">新着・お知らせ</a></li>
         <li class="nav-item"><a class="nav-link" href="#program">プログラム</a></li>
@@ -45,21 +45,6 @@
 <div class="px-4 py-5 my-5 text-center">
   <img class="d-block mx-auto mb-4" src="/matrk_common/img/ruby.png" width="60" height="60" />
   <h1 class="display-5 fw-bold">MATSUE RUBY KAIGI 10</h1>
-</div>
-
-<div id="register" class="container">
-  <div class="row">
-    <div class="col-xs-12 col-md-12">
-      <blockquote>
-        <h2 class="font-Fenix" id="message">LT募集</h2>
-      </blockquote>
-      <p class="main-text font-Fenix">松江Ruby会議10はLTを募集しております。</p>
-      <p class="main-text font-Fenix">下記の応募ボタンをクリックして、発表応募フォームにて必要事項の御入力を行い、御応募よろしくお願いします。</p>
-      <p>LT応募の締切は <strong>2023年7月31日</strong> です。</p>
-      <a href="https://forms.gle/vByKjttEwqVDvajYA">
-      <button class="button" type="button">LT応募</button></a>
-    </div>
-  </div>
 </div>
 
 <p><br /><br /></p>
@@ -100,6 +85,10 @@
           <td>日本Rubyの会</td>
         </tr>
         <tr>
+          <th>中継</th>
+          <td>中継は行いませんが会場の写真撮影はします</td>
+        </tr>
+        <tr>
           <th>公式タグ</th>
           <td>Twitter: <a href="https://twitter.com/search?q=matrk10&amp;src=typd&amp;f=realtime" target="_blank">#matrk10</a></td>
         </tr>
@@ -121,6 +110,7 @@
         <h2 class="font-Fenix" id="message">新着・お知らせ</h2>
       </blockquote>
       <dl class="news_table">
+        <dt>2023/08/01</dt><dd>LT募集を締め切りました。</dd>
         <dt>2023/07/14</dt><dd>LT募集を開始しました。</dd>
         <dt>2023/07/13</dt><dd>タイムテーブルを公開しました。</dd>
         <dt>2023/07/01</dt><dd>発表の応募を締め切りました。</dd>
@@ -186,12 +176,12 @@
       <div class="timetable">
         <ul class="timeline">
             <li class="event" data-date="12:30 〜 13:00">
-              <h3>開場</h3>
-              <p></p>
+              <h3>開場<br /><br />午前中からスタッフは松江オープンソースラボの会場の準備をします。<br /><br />sessionとLTの発表者は、開会前にPCの接続確認を実施することを推奨致します。</h3>
+              <p>受付<br />前田 修吾 氏<br /><br />写真撮影<br />羽角 均 氏</p>
             </li>
             <li class="event" data-date="13:00 〜 13:10">
               <h3>開会の挨拶</h3>
-              <p></p>
+              <p>実行委員長<br />佐田 明弘 氏<br /><br />司会<br />高尾 宏治 氏</p>
             </li>
             <li class="event" data-date="13:10 〜 13:30">
               <h3>session 1<br />「Names, Modules, and Namespaces」<br /><br />Rubyのライブラリやアプリケーションにおけるライブラリと名前の関係、それらにまつわる種々の問題を概説したのち、他言語などでどのようなアプローチがとられているか、Rubyでどのような解決が可能そうかについて議論します</h3>
@@ -234,7 +224,7 @@
               <p></p>
             </li>
             <li class="event" data-date="16:50 〜 17:20">
-              <h3>基調講演</h3>
+              <h3>基調講演<br />「変化と安定と」<br /><br />Rubyに対しては日々開発が行われ、どんどん変化を続けています。<br />一方で、安定版がリリース・保守され、一般のユーザーはこちらを利用することが大半です。<br />Rubyの変化と安定について、安定版の保守の観点からお話します。</h3>
               <p>なかむら(う) 氏</p>
             </li>
             <li class="event" data-date="17:20 〜 17:50">
@@ -243,7 +233,11 @@
             </li>
             <li class="event" data-date="17:50 〜 18:00">
               <h3>閉会の挨拶</h3>
-              <p></p>
+              <p>実行委員長<br />佐田 明弘 氏<br /><br />司会<br />高尾 宏治 氏</p>
+            </li>
+            <li class="event" data-date="18:00 〜 18:30">
+              <h3>片付け<br /><br />松江オープンソースラボの片付けをします。<br />お帰りの際、お忘れ物をなさいませんようご注意ください。<br /><br />それと、sessionとLTの発表者の交流のための懇親会があります。懇親会幹事と一緒に懇親会会場に移動をお願いします。<br /><br />懇親会会場： <a href="https://www.kyojin-company.com/matsue">巨人のシチューハウス松江店</a></h3>
+              <p>懇親会幹事<br />羽角 均 氏</p>
             </li>
         </ul>
       </div>
