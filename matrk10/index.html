@@ -31,6 +31,7 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
+        <li class="nav-item"><a class="nav-link" href="#register">参加登録</a></li>
         <li class="nav-item"><a class="nav-link" href="#guidance">開催概要</a></li>
         <li class="nav-item"><a class="nav-link" href="#information">新着・お知らせ</a></li>
         <li class="nav-item"><a class="nav-link" href="#program">プログラム</a></li>
@@ -45,6 +46,23 @@
 <div class="px-4 py-5 my-5 text-center">
   <img class="d-block mx-auto mb-4" src="/matrk_common/img/ruby.png" width="60" height="60" />
   <h1 class="display-5 fw-bold">MATSUE RUBY KAIGI 10</h1>
+</div>
+
+<p><br /><br /></p>
+
+<div id="register" class="container">
+  <div class="row">
+    <div class="col-xs-12 col-md-12">
+      <blockquote>
+        <h2 class="font-Fenix" id="message">参加登録</h2>
+      </blockquote>
+      <p class="main-text font-Fenix">松江Ruby会議10の参加登録です。</p>
+      <p class="main-text font-Fenix">下記の参加登録ボタンをクリックして、Doorkeeperのイベントのページにて登録をよろしくお願いします。</p>
+      <p class="main-text font-Fenix">注意： 松江Ruby会議10の発表者(基調講演者、session、LT、対談)は参加登録は不要です。当日、会場へお越しください。</p>
+      <a href="https://matsue-rb.doorkeeper.jp/events/159963">
+      <button class="button" type="button">参加登録</button></a>
+    </div>
+  </div>
 </div>
 
 <p><br /><br /></p>
@@ -110,6 +128,7 @@
         <h2 class="font-Fenix" id="message">新着・お知らせ</h2>
       </blockquote>
       <dl class="news_table">
+        <dt>2023/08/07</dt><dd>行動規範の「ツイッター」を「SNS」に変更しました。</dd>
         <dt>2023/08/01</dt><dd>LT募集を締め切りました。</dd>
         <dt>2023/07/14</dt><dd>LT募集を開始しました。</dd>
         <dt>2023/07/13</dt><dd>タイムテーブルを公開しました。</dd>
@@ -141,6 +160,19 @@
         </span>
         <p class="description">
           前世紀からRubyコミッタ(安定版メンテナ、Windows版メンテナ)をされており、Ruby公式サイトに世界で一番多くの記事を書かれています。座右の銘は「ケセラセラ」、都内某IT企業に勤務されています。基調講演でお話しいただきます。
+        </p>
+      </div>
+    </div>
+    <div class="col-xs4 col-md-4 keynote-person">
+      <span class="person matz"></span>
+      <div class="profile">
+        <span class="name">まつもとゆきひろ 氏</span>
+        <span class="social">
+          <a href="https://twitter.com/yukihiro_matz" class="twitter"></a>
+          <a href="https://github.com/matz" class="github"></a>
+        </span>
+        <p class="description">
+          我らがRubyの生みの親。小泉八雲氏と肩を並べて松江市名誉市民でもあり、Rubyを通して地方から世界のソフトウェア業界に多大な影響を与えています。なかむら(う)様との対談でお話しいただきます。
         </p>
       </div>
     </div>
@@ -216,8 +248,48 @@
               <p></p>
             </li>
             <li class="event" data-date="15:40 〜 16:40">
-              <h3>LT大会</h3>
+              <h3>LT</h3>
               <p></p>
+            </li>
+            <li class="event" data-date="">
+              <h3>mrbgemsのすべて</h3>
+              <p>まつもと ゆきひろ 氏</p>
+            </li>
+            <li class="event" data-date="">
+              <h3>最近の小・中学生のプログラミング事情</h3>
+              <p>高尾 宏治 氏</p>
+            </li>
+            <li class="event" data-date="">
+              <h3>mruby/c + smalruby → Matz葉がにロボコン</h3>
+              <p>杉山 耕一朗 氏</p>
+            </li>
+            <li class="event" data-date="">
+              <h3>gtk4 gemの使い方</h3>
+              <p>進藤 元明（motoakira）氏</p>
+            </li>
+            <li class="event" data-date="">
+              <h3>古民家DXとRuby</h3>
+              <p>きむら しのぶ 氏<br /><br />余村 氏</p>
+            </li>
+            <li class="event" data-date="">
+              <h3>Rubyで人工透析装置のIoT化</h3>
+              <p>東 裕人 氏</p>
+            </li>
+            <li class="event" data-date="">
+              <h3>Regional Ruby Hacking Challenge</h3>
+              <p>S.H. 氏</p>
+            </li>
+            <li class="event" data-date="">
+              <h3>自作キーボードの組み立て</h3>
+              <p>高田 芳和 氏</p>
+            </li>
+            <li class="event" data-date="">
+              <h3>perfect_toml: Rubyで書かれた高速TOMLパーサ</h3>
+              <p>遠藤 侑介（@mametter） 氏</p>
+            </li>
+            <li class="event" data-date="">
+              <h3>イベント協賛の価値を見直そう</h3>
+              <p>井上 浩 氏</p>
             </li>
             <li class="event" data-date="16:40 〜 16:50">
               <h3>休憩</h3>
@@ -292,15 +364,15 @@
       </blockquote>
     </div>
 
-    <p>本カンファレンスでは、性別、性的指向、障碍の有無、外見、身体の大きさ、人種、宗教にかかわりなく、全員がハラスメント行為なくカンファレンスに参加し体験できる環境の提供に最善を尽くします。 私達主催者は、参加者によるハラスメント行為を一切許容しません。性的な言葉や映像表現を使うことは会場および本カンファレンスに関連するいかなる場でも不適切であり、その適用範囲は発表やトークの内容、ワークショップ、関連イベント、ツイッターやその他のオンラインメディアでの発言を含みます。これらのルールを破った参加者は、主催者の判断によって、カンファレンス内での行動を制限されたり、カンファレンスからの追放処分を受けることがあります。</p>
+    <p>本カンファレンスでは、性別、性的指向、障碍の有無、外見、身体の大きさ、人種、宗教にかかわりなく、全員がハラスメント行為なくカンファレンスに参加し体験できる環境の提供に最善を尽くします。 私達主催者は、参加者によるハラスメント行為を一切許容しません。性的な言葉や映像表現を使うことは会場および本カンファレンスに関連するいかなる場でも不適切であり、その適用範囲は発表やトークの内容、ワークショップ、関連イベント、SNSやその他のオンラインメディアでの発言を含みます。これらのルールを破った参加者は、主催者の判断によって、カンファレンス内での行動を制限されたり、カンファレンスからの追放処分を受けることがあります。</p>
     <p>ハラスメント行為には、言葉による性別、性的指向、障碍の有無、外見、身体の大きさ、人種、宗教に関する攻撃的なコメント、公的空間での性的な映像表現、意図的な威力行為、ストーキング、つきまとい、写真撮影や録音によるいやがらせ、トークやその他のイベントに対して繰り返して中断しようとする行為、不適切な身体接触、そして望まれない性的な注意を引きつける行為を含みます。</p>
     <p>参加者は、これらのハラスメント行為を止めるように求められた場合、すぐに従わなければなりません。</p>
     <p>参加者がハラスメント行為に属するふるまいをした場合は、主催者は適切と判断した範囲で、当該行為を行った者に対する警告や、参加費を返還せずに追放処分とするなどを含むいかなる行動も取ります。</p>
     <p>もしあなたがハラスメントに遭った場合、他の人がハラスメントに遭っている場合、あるいは他に気になることがあった時は、すぐに運営スタッフの誰かに連絡していただくようお願いします。</p>
     <p>スタッフは、ハラスメントを経験した人が、期間中安全かつ安心と感じられるように、参加者がホテル/会場の警備や近隣の警察に連絡すること、付き添い者の提供、およびその他の支援を行います。私達にとってあなたが参加しているのは大事なことなのです。</p>
     <p>私達は参加者が会場と、本カンファレンスに関連したソーシャルイベントにて、このルールに従うことを望みます。</p>
-    <p>原文ソースとクレジット: http://japan.perlassociation.org/entry/yapc/code_of_conduct &amp; The Ada Initiative</p>
-    <p>この行動規範は Creative Commons Attribution 3.0 Unported Licenseでライセンスされています。</p>
+    <p>原文ソースとクレジット: <a href="http://japan.perlassociation.org/entry/yapc/code_of_conduct">http://japan.perlassociation.org/entry/yapc/code_of_conduct</a> &amp; <a href="https://geekfeminism.fandom.com/wiki/Conference_anti-harassment/Policy">The Ada Initiative</a></p>
+    <p>この行動規範は <a href="https://creativecommons.org/licenses/by/3.0/deed.en_US">Creative Commons Attribution 3.0 Unported License</a> でライセンスされています。</p>
   </div>
 </div>
 
