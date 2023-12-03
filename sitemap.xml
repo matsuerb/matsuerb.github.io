@@ -54,7 +54,7 @@
   </url>
   <url>
     <loc>https://matsue.rubyist.net/matrk10/</loc>
-    <lastmod>2023-09-24</lastmod>
+    <lastmod>2023-09-27</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/members/</loc>
@@ -869,8 +869,14 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://matsue.rubyist.net/news/2023/12/03/matsuerb_r0601/</loc>
+    <lastmod>2023-12-03</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://matsue.rubyist.net/schedule/</loc>
-    <lastmod>2023-09-21</lastmod>
+    <lastmod>2023-12-03</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/sitemap.xml</loc>
