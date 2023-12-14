@@ -847,6 +847,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://matsue.rubyist.net/news/2023/09/16/matsue-rubykaigi10/</loc>
+    <lastmod>2023-12-14</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://matsue.rubyist.net/news/2023/09/21/matsuerb_r0510/</loc>
     <lastmod>2023-09-21</lastmod>
     <changefreq>never</changefreq>
