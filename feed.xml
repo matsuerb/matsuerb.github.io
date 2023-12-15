@@ -40,6 +40,17 @@
 </content>
   </entry>
   <entry>
+    <id>tag:matsue.rubyist.net,2023-11-10:/news/2023/11/11/railsgirlsmatsue/</id>
+    <title type="html">「Rails Girls Matsue 5th」のお手伝いをしました</title>
+    <published>2023-11-10T15:00:00Z</published>
+    <updated>2023-11-10T15:00:00Z</updated>
+    <link rel="alternate" href="https://matsue.rubyist.net/news/2023/11/11/railsgirlsmatsue/" type="text/html"/>
+    <content type="html">&lt;p&gt;　2023年11月11日(土)に開催された &lt;a href="http://railsgirls.com/matsue-5th"&gt;Rails Girls Matsue 5th&lt;/a&gt; で Matsue.rb のメンバーがコーチの一員として参加しました。&lt;/p&gt;
+
+&lt;p&gt;　当日の様子は &lt;a href="https://railsgirls.jp/2023/11/30/railsgirls-matsue-5th"&gt;Rails Girls公式ブログ&lt;/a&gt; でご覧になる事ができます。すべてのテキストは &lt;a href="http://railsgirls.jp/"&gt;Rails Girls Guides&lt;/a&gt; から見る事ができますので、当日参加できなかった方も試してみる事が可能です。色々な項目がありますのでよかったらお試しください。&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
     <id>tag:matsue.rubyist.net,2023-09-21:/news/2023/09/22/matsuerb_r0512/</id>
     <title type="html">「Matsue.rb定例会R05.12」開催のお知らせ</title>
     <published>2023-09-21T15:00:00Z</published>
@@ -47,16 +58,6 @@
     <link rel="alternate" href="https://matsue.rubyist.net/news/2023/09/22/matsuerb_r0512/" type="text/html"/>
     <content type="html">
 &lt;p&gt;　12月16日(土)に&lt;a href="/about_us/#matsuerb"&gt;松江Ruby(Matsue.rb)定例会&lt;/a&gt;を開催します。場所は&lt;a href="/map/"&gt;松江オープンソースラボ&lt;/a&gt;で、時間は13:00から17:00までです。&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:matsue.rubyist.net,2023-09-21:/news/2023/09/22/matsuerb_r0511/</id>
-    <title type="html">「Matsue.rb定例会R05.11」開催のお知らせ</title>
-    <published>2023-09-21T15:00:00Z</published>
-    <updated>2023-09-21T15:00:00Z</updated>
-    <link rel="alternate" href="https://matsue.rubyist.net/news/2023/09/22/matsuerb_r0511/" type="text/html"/>
-    <content type="html">
-&lt;p&gt;　11月19日(日)に&lt;a href="/about_us/#matsuerb"&gt;松江Ruby(Matsue.rb)定例会&lt;/a&gt;を開催します。場所は&lt;a href="/map/"&gt;松江オープンソースラボ&lt;/a&gt;で、時間は13:00から17:00までです。&lt;/p&gt;
 </content>
   </entry>
 </feed>

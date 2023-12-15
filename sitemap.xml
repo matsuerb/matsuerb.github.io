@@ -871,6 +871,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://matsue.rubyist.net/news/2023/11/11/railsgirlsmatsue/</loc>
+    <lastmod>2023-12-15</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://matsue.rubyist.net/news/2023/12/03/matsuerb_r0601/</loc>
     <lastmod>2023-12-03</lastmod>
     <changefreq>never</changefreq>
