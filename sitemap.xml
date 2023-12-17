@@ -499,6 +499,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://matsue.rubyist.net/news/2018/11/10/railsgirlsmatsue_4th/</loc>
+    <lastmod>2023-12-17</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://matsue.rubyist.net/news/2018/11/18/matsuerb_h3012/</loc>
     <lastmod>2022-12-17</lastmod>
     <changefreq>never</changefreq>
@@ -871,7 +877,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://matsue.rubyist.net/news/2023/11/11/railsgirlsmatsue/</loc>
+    <loc>https://matsue.rubyist.net/news/2023/11/11/railsgirlsmatsue_5th/</loc>
     <lastmod>2023-12-15</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
