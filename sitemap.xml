@@ -373,6 +373,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://matsue.rubyist.net/news/2017/03/03/railsgirlsmatsue_3rd/</loc>
+    <lastmod>2023-12-18</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://matsue.rubyist.net/news/2017/03/18/matsuerb_h2904/</loc>
     <lastmod>2022-12-17</lastmod>
     <changefreq>never</changefreq>
