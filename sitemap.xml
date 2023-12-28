@@ -991,6 +991,10 @@
     <lastmod>2022-12-17</lastmod>
   </url>
   <url>
+    <loc>https://matsue.rubyist.net/matrk_common/css/scroll.css</loc>
+    <lastmod>2023-12-28</lastmod>
+  </url>
+  <url>
     <loc>https://matsue.rubyist.net/matrk_common/css/speaker.css</loc>
     <lastmod>2023-04-17</lastmod>
   </url>
@@ -1001,10 +1005,6 @@
   <url>
     <loc>https://matsue.rubyist.net/matrk_common/css/time_table.css</loc>
     <lastmod>2023-04-17</lastmod>
-  </url>
-  <url>
-    <loc>https://matsue.rubyist.net/matrk_common/js/application.js</loc>
-    <lastmod>2022-12-17</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/matrk_common/js/bootstrap.js</loc>
