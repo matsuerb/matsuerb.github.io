@@ -6,6 +6,7 @@
 
 <link rel="stylesheet" href="/css/sitecontents.css" />
 
+<link rel="stylesheet" href="/css/bootstrap.css" />
 <link rel="shortcut icon" href="/images/bn/favicon.ico" />
 <link rel="canonical" href="https://matsue.rubyist.net/news/2014/01/17/railsgirlsmatsue/" />
 <title>「Rails Girls Matsue」のお手伝いをしました|松江Ruby(Matsue.rb)</title>
@@ -36,49 +37,83 @@
 </head>
 <body>
 
-<ul class="menu">
-
-<li data-ag-x="3"><img src="/images/bn/matsuerb_layer.png" alt="*"/><a href="/"><img src="/images/bn/matsuerb.png" alt="matsue.rb 松江Ruby"/></a></li>
-
-<li><a href="/news/"><div class="toc">お知らせ</div></a></li>
-<li><a href="/members/"><div class="toc">メンバー</div></a></li>
-<li><a href="/schedule/"><div class="toc">スケジュール</div></a></li>
-<li data-ag-x="5"><p id="outline">Matsue.rb(松江Ruby)は、島根県松江市周辺で活動するプログラミング言語Rubyのコミュニティです。</p></li>
-</ul>
+<header class="py-3">
+  <ul class="nav menu">
+    
+    <li class="nav-item">
+      <img src="/images/bn/matsuerb_layer.png" alt="*"/><a href="/"><img src="/images/bn/matsuerb.png" alt="matsue.rb 松江Ruby"/></a>
+    </li>
+    
+    <li class="nav-item">
+      <a class="link-body-emphasis text-decoration-none" href="/news/"><div class="toc">お知らせ</div></a>
+    </li>
+    <li class="nav-item">
+      <a class="link-body-emphasis text-decoration-none" href="/members/"><div class="toc">メンバー</div></a>
+    </li>
+    <li class="nav-item">
+      <a class="link-body-emphasis text-decoration-none" href="/schedule/"><div class="toc">スケジュール</div></a>
+    </li>
+    <li><p id="outline">Matsue.rb(松江Ruby)は、島根県松江市周辺で活動するプログラミング言語Rubyのコミュニティです。</p></li>
+  </ul>
+</header>
 <!-- End of head -->
 
 
-  <div class="page-title"><h1>「Rails Girls Matsue」のお手伝いをしました</h1></div>
-  <div class="body">
-  <p>　2013年11月22日(金)から23日(土)に開催された <a href="http://railsgirls.com/matsue-1st">Rails Girls Matsue</a> で Matsue.rb のメンバー数名がコーチの一員として参加しました。</p>
+  <div class="container">
+    <div class="page-title"><h1>「Rails Girls Matsue」のお手伝いをしました</h1></div>
+    <div class="body">
+      <p>　2013年11月22日(金)から23日(土)に開催された <a href="http://railsgirls.com/matsue-1st">Rails Girls Matsue</a> で Matsue.rb のメンバー数名がコーチの一員として参加しました。</p>
 
 <p>　当日の様子は <a href="https://railsgirls.jp/2014/04/20/railsgirls-matsue/">Rails Girls公式ブログ(<s>後日公開予定</s>公開されました)</a> や <a href="http://www.flickr.com/photos/109849144@N02/">flickr</a> でご覧になる事ができます。すべてのテキストは <a href="http://railsgirls.jp/">Rails Girls Guides</a> から見る事ができますので、当日参加できなかった方も試してみる事が可能です。色々な項目がありますのでよかったらお試しください。</p>
 
 <p>　また、2014年3月7日(金)から8日(土)に <a href="http://railsgirls.com/nagoya_1st">Rails Girls Nagoya</a>、3月14日(金)から15日(土)に <a href="http://railsgirls.com/nara">Rails Girls Nara</a> の開催も決まっていますので、お近くにお住まいの方はよかったらご検討ください。</p>
 
+    </div>
   </div>
 
 
 <!-- footer -->
-<ul id="footer">
-  <li><a href="/index.html">トップ</a></li>
-  <li><a href="/news/">お知らせ</a></li>
-  <li><a href="/members/">メンバー</a></li>
-  <li><a href="/schedule/">スケジュール</a></li>
-  <li><a href="/anti_harassment_policy/">アンチハラスメントポリシー</a></li>
-  <br />
-  <li><a href="https://twitter.com/matsuerb">X(旧:Twitter)</a></li>
-  <li><a href="https://www.facebook.com/groups/matsuerb">Facebook</a></li>
-  <li><a href="https://github.com/matsuerb/matsuerb-nanoc">GitHub</a></li>
-  <li><a href="https://www.youtube.com/@Matsuerb">YouTube</a></li>
-  <li><a href="https://matsue-rb.doorkeeper.jp/">Doorkeeper</a></li>
-</ul>
+<footer class="py-3 my-4">
+  <ul class="nav justify-content-center pb-3">
+    <li class="nav-item">
+      <a class="nav-link px-2 text-body-secondary" href="/index.html">トップ</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link px-2 text-body-secondary" href="/news">お知らせ</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link px-2 text-body-secondary" href="/members">メンバー</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link px-2 text-body-secondary" href="/schedule">スケジュール</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link px-2 text-body-secondary" href="/anti_harassment_policy">アンチハラスメントポリシー</a>
+    </li>
+  </ul>
+  <ul class="nav justify-content-center list-unstyled border-bottom pb-3 mb-3">
+    <li class="nav-item">
+      <a class="nav-link px-2 text-body-secondary" href="https://twitter.com/matsuerb">X(旧:Twitter)</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link px-2 text-body-secondary" href="https://www.facebook.com/groups/matsuerb">Facebook</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link px-2 text-body-secondary" href="https://github.com/matsuerb/matsuerb-nanoc">GitHub</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link px-2 text-body-secondary" href="https://www.youtube.com/@Matsuerb">YouTube</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link px-2 text-body-secondary" href="https://matsue-rb.doorkeeper.jp/">Doorkeeper</a>
+    </li>
+  </ul>
+  <p class="text-center text-body-secondary">
+    Copyright © 2013-2024 <a href="https://www.facebook.com/groups/matsuerb">Matsue.rb(松江Ruby) </a>. All Rights Reserved. <span><a target="_blank" href="https://github.com/matsuerb/matsuerb-nanoc">GitHub・matsuerb/matsuerb-nanoc</a></span>
+  </p>
+</footer>
 
-<div id="copyright">Copyright © 2013-2024 <a href="https://www.facebook.com/groups/matsuerb">Matsue.rb(松江Ruby) </a>. All Rights Reserved. <span><a target="_blank" href="https://github.com/matsuerb/matsuerb-nanoc">GitHub・matsuerb/matsuerb-nanoc</a></span></div>
-
-<script src="/js/grid/jquery-3.5.1.min.js"></script>
-<script src="/js/grid/awesome-grid.js"></script>
-<script src="/js/grid/columnset.js"></script>
+<script src="/js/bootstrap.js"></script>
 
 </body>
 </html>
