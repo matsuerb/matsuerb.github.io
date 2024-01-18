@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://matsue.rubyist.net/</loc>
-    <lastmod>2024-01-13</lastmod>
+    <lastmod>2024-01-16</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/anti_harassment_policy/</loc>
@@ -963,10 +963,6 @@
     <lastmod>2023-08-07</lastmod>
   </url>
   <url>
-    <loc>https://matsue.rubyist.net/matrk_common/css/bootstrap.css</loc>
-    <lastmod>2023-04-17</lastmod>
-  </url>
-  <url>
     <loc>https://matsue.rubyist.net/matrk_common/css/button.css</loc>
     <lastmod>2023-04-17</lastmod>
   </url>
@@ -1000,10 +996,6 @@
   </url>
   <url>
     <loc>https://matsue.rubyist.net/matrk_common/css/time_table.css</loc>
-    <lastmod>2023-04-17</lastmod>
-  </url>
-  <url>
-    <loc>https://matsue.rubyist.net/matrk_common/js/bootstrap.js</loc>
     <lastmod>2023-04-17</lastmod>
   </url>
   <url>
