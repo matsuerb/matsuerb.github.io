@@ -930,7 +930,7 @@
   </url>
   <url>
     <loc>https://matsue.rubyist.net/css/matsuerb.css</loc>
-    <lastmod>2024-04-02</lastmod>
+    <lastmod>2024-04-03</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/google5c9f1a2aa704c8ef.html</loc>
@@ -974,15 +974,11 @@
   </url>
   <url>
     <loc>https://matsue.rubyist.net/matrk_common/css/font.css</loc>
-    <lastmod>2024-03-21</lastmod>
+    <lastmod>2024-04-03</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/matrk_common/css/matrk.css</loc>
     <lastmod>2024-04-02</lastmod>
-  </url>
-  <url>
-    <loc>https://matsue.rubyist.net/matrk_common/css/normalize.css</loc>
-    <lastmod>2022-12-17</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/matrk_common/css/scroll.css</loc>
