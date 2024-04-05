@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://matsue.rubyist.net/</loc>
-    <lastmod>2024-03-23</lastmod>
+    <lastmod>2024-04-05</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/anti_harassment_policy/</loc>
@@ -18,35 +18,35 @@
   </url>
   <url>
     <loc>https://matsue.rubyist.net/matrk05/</loc>
-    <lastmod>2024-04-01</lastmod>
+    <lastmod>2024-04-05</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/matrk06/</loc>
-    <lastmod>2024-04-01</lastmod>
+    <lastmod>2024-04-05</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/matrk06/ogiri/</loc>
-    <lastmod>2024-04-01</lastmod>
+    <lastmod>2024-04-05</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/matrk07/</loc>
-    <lastmod>2024-04-01</lastmod>
+    <lastmod>2024-04-05</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/matrk07/contest/</loc>
-    <lastmod>2024-04-01</lastmod>
+    <lastmod>2024-04-05</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/matrk08/</loc>
-    <lastmod>2024-04-01</lastmod>
+    <lastmod>2024-04-05</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/matrk09/</loc>
-    <lastmod>2024-04-01</lastmod>
+    <lastmod>2024-04-05</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/matrk10/</loc>
-    <lastmod>2024-04-01</lastmod>
+    <lastmod>2024-04-05</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/news/</loc>
@@ -180,7 +180,7 @@
   </url>
   <url>
     <loc>https://matsue.rubyist.net/news/2015/02/28/matsue-rubykaigi06/</loc>
-    <lastmod>2024-02-17</lastmod>
+    <lastmod>2024-04-05</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
@@ -240,7 +240,7 @@
   </url>
   <url>
     <loc>https://matsue.rubyist.net/news/2015/09/06/matrk07-and-railsgirls-matsue/</loc>
-    <lastmod>2024-02-17</lastmod>
+    <lastmod>2024-04-05</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
@@ -288,7 +288,7 @@
   </url>
   <url>
     <loc>https://matsue.rubyist.net/news/2016/03/19/matsue-rubykaigi07/</loc>
-    <lastmod>2024-02-17</lastmod>
+    <lastmod>2024-04-05</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
@@ -468,7 +468,7 @@
   </url>
   <url>
     <loc>https://matsue.rubyist.net/news/2018/07/18/matsue-rubykaigi08/</loc>
-    <lastmod>2024-02-17</lastmod>
+    <lastmod>2024-04-05</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
@@ -900,25 +900,25 @@
   </url>
   <url>
     <loc>https://matsue.rubyist.net/news/2024/03/01/matsuerb_r0604/</loc>
-    <lastmod>2024-03-21</lastmod>
+    <lastmod>2024-04-05</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/news/2024/03/02/matsuerb_r0605/</loc>
-    <lastmod>2024-03-21</lastmod>
+    <lastmod>2024-04-05</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/news/2024/03/03/matsuerb_r0606/</loc>
-    <lastmod>2024-03-21</lastmod>
+    <lastmod>2024-04-05</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/schedule/</loc>
-    <lastmod>2024-03-28</lastmod>
+    <lastmod>2024-04-05</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/sitemap.xml</loc>
@@ -966,11 +966,11 @@
   </url>
   <url>
     <loc>https://matsue.rubyist.net/matrk_common/css/button.css</loc>
-    <lastmod>2024-03-21</lastmod>
+    <lastmod>2024-04-05</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/matrk_common/css/matrk.css</loc>
-    <lastmod>2024-04-02</lastmod>
+    <lastmod>2024-04-05</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/matrk_common/css/scroll.css</loc>
@@ -978,7 +978,7 @@
   </url>
   <url>
     <loc>https://matsue.rubyist.net/matrk_common/css/speaker.css</loc>
-    <lastmod>2024-04-04</lastmod>
+    <lastmod>2024-04-05</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/matrk_common/css/sponser.css</loc>
