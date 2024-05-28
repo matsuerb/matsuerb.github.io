@@ -916,13 +916,19 @@
   </url>
   <url>
     <loc>https://matsue.rubyist.net/news/2024/03/03/matsuerb_r0606/</loc>
-    <lastmod>2024-05-24</lastmod>
+    <lastmod>2024-05-28</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://matsue.rubyist.net/news/2024/05/28/matsuerb_r0607/</loc>
+    <lastmod>2024-05-28</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/schedule/</loc>
-    <lastmod>2024-05-26</lastmod>
+    <lastmod>2024-05-28</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/sitemap.xml</loc>
