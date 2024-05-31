@@ -2,13 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://matsue.rubyist.net/">
   <id>https://matsue.rubyist.net/</id>
   <title>Matsue.rb(松江Ruby)</title>
-  <updated>2024-05-27T15:00:00Z</updated>
+  <updated>2024-05-29T15:00:00Z</updated>
   <link rel="alternate" href="https://matsue.rubyist.net/" type="text/html"/>
   <link rel="self" href="https://matsue.rubyist.net/feed.xml" type="application/atom+xml"/>
   <author>
     <name>Matsue.rb</name>
     <uri>http://matsuerb.github.io/</uri>
   </author>
+  <entry>
+    <id>tag:matsue.rubyist.net,2024-05-29:/news/2024/05/30/matsuerb_r0608/</id>
+    <title type="html">「Matsue.rb定例会R06.08」開催のお知らせ</title>
+    <published>2024-05-29T15:00:00Z</published>
+    <updated>2024-05-29T15:00:00Z</updated>
+    <link rel="alternate" href="https://matsue.rubyist.net/news/2024/05/30/matsuerb_r0608/" type="text/html"/>
+    <content type="html">
+&lt;p&gt;　8月24日(土)に松江Ruby(Matsue.rb)定例会を開催します。場所は&lt;a href="https://www.city.matsue.lg.jp/soshikikarasagasu/sangyokeizaibu_matsuesangyoshiencenter/14133.html"&gt;松江オープンソースラボ&lt;/a&gt;で、時間は13:00から17:00までです。&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <id>tag:matsue.rubyist.net,2024-05-27:/news/2024/05/28/matsuerb_r0607/</id>
     <title type="html">「Matsue.rb定例会R06.07」開催のお知らせ</title>
@@ -47,16 +57,6 @@
     <link rel="alternate" href="https://matsue.rubyist.net/news/2024/03/01/matsuerb_r0604/" type="text/html"/>
     <content type="html">
 &lt;p&gt;　4月27日(土)に&lt;a href="http://matsue-rb.doorkeeper.jp/events/170321"&gt;松江Ruby(Matsue.rb)定例会&lt;/a&gt;を開催します。場所は&lt;a href="https://www.city.matsue.lg.jp/soshikikarasagasu/sangyokeizaibu_matsuesangyoshiencenter/14133.html"&gt;松江オープンソースラボ&lt;/a&gt;で、時間は13:00から17:00までです。&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:matsue.rubyist.net,2023-12-04:/news/2023/12/05/matsuerb_r0603/</id>
-    <title type="html">「Matsue.rb定例会R06.03」開催のお知らせ</title>
-    <published>2023-12-04T15:00:00Z</published>
-    <updated>2023-12-04T15:00:00Z</updated>
-    <link rel="alternate" href="https://matsue.rubyist.net/news/2023/12/05/matsuerb_r0603/" type="text/html"/>
-    <content type="html">
-&lt;p&gt;　3月23日(土)に&lt;a href="http://matsue-rb.doorkeeper.jp/events/166943"&gt;松江Ruby(Matsue.rb)定例会&lt;/a&gt;を開催します。場所は&lt;a href="https://www.city.matsue.lg.jp/soshikikarasagasu/sangyokeizaibu_matsuesangyoshiencenter/14133.html"&gt;松江オープンソースラボ&lt;/a&gt;で、時間は13:00から17:00までです。&lt;/p&gt;
 </content>
   </entry>
 </feed>
