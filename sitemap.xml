@@ -933,6 +933,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://matsue.rubyist.net/news/2024/06/01/matsuerb_r0609/</loc>
+    <lastmod>2024-06-02</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://matsue.rubyist.net/schedule/</loc>
     <lastmod>2024-05-29</lastmod>
   </url>
