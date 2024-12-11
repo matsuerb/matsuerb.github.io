@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://matsue.rubyist.net/</loc>
-    <lastmod>2024-12-03</lastmod>
+    <lastmod>2024-12-10</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/anti_harassment_policy/</loc>
@@ -26,7 +26,7 @@
   </url>
   <url>
     <loc>https://matsue.rubyist.net/matrk06/ogiri/</loc>
-    <lastmod>2024-04-05</lastmod>
+    <lastmod>2024-12-10</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/matrk07/</loc>
@@ -640,19 +640,19 @@
   </url>
   <url>
     <loc>https://matsue.rubyist.net/news/2020/08/29/matsuerb_r0209/</loc>
-    <lastmod>2024-11-28</lastmod>
+    <lastmod>2024-12-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/news/2020/09/26/matsuerb_r0210/</loc>
-    <lastmod>2024-12-02</lastmod>
+    <lastmod>2024-12-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/news/2020/10/15/matsuerb_r0211/</loc>
-    <lastmod>2024-12-07</lastmod>
+    <lastmod>2024-12-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
@@ -664,13 +664,13 @@
   </url>
   <url>
     <loc>https://matsue.rubyist.net/news/2020/12/12/matsuerb_r0301/</loc>
-    <lastmod>2024-12-09</lastmod>
+    <lastmod>2024-12-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/news/2020/12/12/matsuerb_r0302/</loc>
-    <lastmod>2024-11-05</lastmod>
+    <lastmod>2024-12-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
