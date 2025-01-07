@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://matsue.rubyist.net/</loc>
-    <lastmod>2025-01-02</lastmod>
+    <lastmod>2025-01-07</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/anti_harassment_policy/</loc>
-    <lastmod>2025-01-02</lastmod>
+    <lastmod>2025-01-07</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/calendar.ics</loc>
-    <lastmod>2025-01-02</lastmod>
+    <lastmod>2025-01-07</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/feed.xml</loc>
-    <lastmod>2025-01-02</lastmod>
+    <lastmod>2025-01-07</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/matrk05/</loc>
@@ -26,7 +26,7 @@
   </url>
   <url>
     <loc>https://matsue.rubyist.net/matrk06/ogiri/</loc>
-    <lastmod>2025-01-02</lastmod>
+    <lastmod>2025-01-06</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/matrk07/</loc>
@@ -54,7 +54,7 @@
   </url>
   <url>
     <loc>https://matsue.rubyist.net/news/</loc>
-    <lastmod>2025-01-02</lastmod>
+    <lastmod>2025-01-07</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/news/2013/08/14/open/</loc>
@@ -957,12 +957,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://matsue.rubyist.net/news/2025/01/06/matsuerb_r0702/</loc>
+    <lastmod>2025-01-07</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://matsue.rubyist.net/schedule/</loc>
-    <lastmod>2025-01-02</lastmod>
+    <lastmod>2025-01-07</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/sitemap.xml</loc>
-    <lastmod>2025-01-02</lastmod>
+    <lastmod>2025-01-07</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/css/bootstrap.css</loc>
@@ -1030,7 +1036,7 @@
   </url>
   <url>
     <loc>https://matsue.rubyist.net/tags/</loc>
-    <lastmod>2025-01-02</lastmod>
+    <lastmod>2025-01-07</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/tags/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/</loc>
