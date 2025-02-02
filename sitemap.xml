@@ -26,7 +26,7 @@
   </url>
   <url>
     <loc>https://matsue.rubyist.net/matrk06/ogiri/</loc>
-    <lastmod>2025-01-26</lastmod>
+    <lastmod>2025-02-02</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/matrk06/ruby_3/</loc>
@@ -50,11 +50,11 @@
   </url>
   <url>
     <loc>https://matsue.rubyist.net/matrk10/</loc>
-    <lastmod>2025-01-02</lastmod>
+    <lastmod>2025-02-01</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/matrk11/</loc>
-    <lastmod>2025-01-02</lastmod>
+    <lastmod>2025-02-02</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/news/</loc>
@@ -188,7 +188,7 @@
   </url>
   <url>
     <loc>https://matsue.rubyist.net/news/2015/02/28/matsue-rubykaigi06/</loc>
-    <lastmod>2024-09-18</lastmod>
+    <lastmod>2025-02-02</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
@@ -296,7 +296,7 @@
   </url>
   <url>
     <loc>https://matsue.rubyist.net/news/2016/03/19/matsue-rubykaigi07/</loc>
-    <lastmod>2024-09-18</lastmod>
+    <lastmod>2025-02-02</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
@@ -476,7 +476,7 @@
   </url>
   <url>
     <loc>https://matsue.rubyist.net/news/2018/07/18/matsue-rubykaigi08/</loc>
-    <lastmod>2024-09-18</lastmod>
+    <lastmod>2025-02-02</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
@@ -518,7 +518,7 @@
   </url>
   <url>
     <loc>https://matsue.rubyist.net/news/2018/11/20/matsue-rubykaigi09/</loc>
-    <lastmod>2024-09-18</lastmod>
+    <lastmod>2025-02-02</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
@@ -860,7 +860,7 @@
   </url>
   <url>
     <loc>https://matsue.rubyist.net/news/2023/09/16/matsue-rubykaigi10/</loc>
-    <lastmod>2024-09-18</lastmod>
+    <lastmod>2025-02-02</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
@@ -890,7 +890,7 @@
   </url>
   <url>
     <loc>https://matsue.rubyist.net/news/2023/12/03/matsuerb_r0601/</loc>
-    <lastmod>2024-09-18</lastmod>
+    <lastmod>2025-02-01</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
@@ -968,13 +968,13 @@
   </url>
   <url>
     <loc>https://matsue.rubyist.net/news/2025/01/28/matsuerb_r0703/</loc>
-    <lastmod>2025-01-29</lastmod>
+    <lastmod>2025-01-31</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/schedule/</loc>
-    <lastmod>2025-01-29</lastmod>
+    <lastmod>2025-02-02</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/sitemap.xml</loc>
