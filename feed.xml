@@ -50,13 +50,27 @@
 </content>
   </entry>
   <entry>
-    <id>tag:matsue.rubyist.net,2024-10-03:/news/2024/10/04/matsuerb_r0611/</id>
-    <title type="html">「Matsue.rb定例会R06.11」開催のお知らせ</title>
-    <published>2024-10-03T15:00:00Z</published>
-    <updated>2024-10-03T15:00:00Z</updated>
-    <link rel="alternate" href="https://matsue.rubyist.net/news/2024/10/04/matsuerb_r0611/" type="text/html"/>
-    <content type="html">
-&lt;p&gt;　11月3日(日)に松江Ruby(Matsue.rb)定例会を開催します。場所は&lt;a href="https://www.city.matsue.lg.jp/soshikikarasagasu/shinsangyousouzouka/rcm/labo/14133.html"&gt;松江オープンソースラボ&lt;/a&gt;で、時間は13:00から17:00までです。&lt;/p&gt;
+    <id>tag:matsue.rubyist.net,2024-10-04:/news/2024/10/05/matsue-rubykaigi11/</id>
+    <title type="html">「松江Ruby会議11」を開催しました</title>
+    <published>2024-10-04T15:00:00Z</published>
+    <updated>2024-10-04T15:00:00Z</updated>
+    <link rel="alternate" href="https://matsue.rubyist.net/news/2024/10/05/matsue-rubykaigi11/" type="text/html"/>
+    <content type="html">&lt;p&gt;2024/10/05（土）に松江Ruby会議11が松江オープンソースラボで開催されました。
+たくさんの方にご来場いただき、51名（スタッフ込）の方々にご参加いただきました！&lt;/p&gt;
+
+&lt;h2 id="section"&gt;詳細は以下のリンクからご確認ください。&lt;/h2&gt;
+
+&lt;h3 id="togetter"&gt;Togetterまとめ&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a target="_blank" href="https://posfie.com/@matsuerb/p/2p4Y0UO"&gt;Togetterまとめ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="section-1"&gt;レポート&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a target="_blank" href="https://magazine.rubyist.net/articles/0065/0065-MatsueRubyKaigi11Report.html"&gt;RegionalRubyKaigi レポート (87) 松江 Ruby 会議 11&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </content>
   </entry>
 </feed>
