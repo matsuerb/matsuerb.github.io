@@ -1015,8 +1015,14 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://matsue.rubyist.net/news/2025/11/23/matsuerb_r0711/</loc>
+    <lastmod>2025-11-23</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://matsue.rubyist.net/schedule/</loc>
-    <lastmod>2025-09-23</lastmod>
+    <lastmod>2025-11-23</lastmod>
   </url>
   <url>
     <loc>https://matsue.rubyist.net/sitemap.xml</loc>
