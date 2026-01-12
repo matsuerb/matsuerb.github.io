@@ -50,13 +50,14 @@
 </content>
   </entry>
   <entry>
-    <id>tag:matsue.rubyist.net,2025-08-14:/news/2025/08/15/matsuerb_r0709/</id>
-    <title type="html">「Matsue.rb定例会R07.09」開催のお知らせ</title>
-    <published>2025-08-14T15:00:00Z</published>
-    <updated>2025-08-14T15:00:00Z</updated>
-    <link rel="alternate" href="https://matsue.rubyist.net/news/2025/08/15/matsuerb_r0709/" type="text/html"/>
-    <content type="html">
-&lt;p&gt;　9月13日(土)に松江Ruby(Matsue.rb)定例会を開催します。場所は&lt;a href="https://www.city.matsue.lg.jp/soshikikarasagasu/shinsangyousouzouka/rcm/labo/14133.html"&gt;松江オープンソースラボ&lt;/a&gt;で、時間は13:00から17:00までです。&lt;/p&gt;
+    <id>tag:matsue.rubyist.net,2025-11-07:/news/2025/11/08/mrubygirlsmatsue_1st/</id>
+    <title type="html">「mruby Girls Matsue 1st」のお手伝いをしました</title>
+    <published>2025-11-07T15:00:00Z</published>
+    <updated>2025-11-07T15:00:00Z</updated>
+    <link rel="alternate" href="https://matsue.rubyist.net/news/2025/11/08/mrubygirlsmatsue_1st/" type="text/html"/>
+    <content type="html">&lt;p&gt;　2025年11月08日(土)に開催された &lt;a href="https://mrubygirls.github.io/events/2025-11-08-matsue_1st"&gt;mruby Girls Matsue 1st&lt;/a&gt; で Matsue.rb のメンバーがコーチの一員として参加しました。&lt;/p&gt;
+
+&lt;p&gt;　すべてのテキストは &lt;a href="https://mrubygirls.github.io/guides/"&gt;mruby Girls Guides&lt;/a&gt; で読むことができますので、当日参加できなかった方も試せます。色々な項目がありますのでお試しください。&lt;/p&gt;
 </content>
   </entry>
 </feed>
